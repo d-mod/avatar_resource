@@ -1,1 +1,509 @@
-[{"name":"光明御武霸者皮肤","code":"0000","icon":"fighter/skin/0000.png","images":[{"name":"0000.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"古铜色健康皮肤","code":"0001","icon":"fighter/skin/0001.png","images":[{"name":"0001.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"白色健美皮肤","code":"0002","icon":"fighter/skin/0002.png","images":[{"name":"0002.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"巧克力色野性皮肤","code":"0003","icon":"fighter/skin/0003.png","images":[{"name":"0003.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"2011春节乳白色细嫩皮肤","code":"0004","icon":"fighter/skin/0004.png","images":[{"name":"0004.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"灰白色银月皮肤","code":"0005","icon":"fighter/skin/0005.png","images":[{"name":"0005.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"黑色堕落皮肤","code":"0006","icon":"fighter/skin/0006.png","images":[{"name":"0006.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"白玉色倩女幽魂皮肤","code":"0007","icon":"fighter/skin/0007.png","images":[{"name":"0007.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"红色燃情皮肤","code":"0008","icon":"fighter/skin/0008.png","images":[{"name":"0008.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"蓝色恶魔皮肤","code":"0009","icon":"fighter/skin/0009.png","images":[{"name":"0009.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"红褐色武神皮肤","code":"0010","icon":"fighter/skin/0010.png","images":[{"name":"0010.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"2011春节杏色柔美皮肤","code":"0011","icon":"fighter/skin/0011.png","images":[{"name":"0011.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":null,"code":"0012","icon":"fighter/skin/0012.png","images":[{"name":"0012.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":null,"code":"0013","icon":"fighter/skin/0013.png","images":[{"name":"0013.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":null,"code":"0014","icon":"fighter/skin/0014.png","images":[{"name":"0014.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"深棕色健康皮肤","code":"0015","icon":"fighter/skin/0015.png","images":[{"name":"0015.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"海蓝色营养皮肤","code":"0016","icon":"fighter/skin/0016.png","images":[{"name":"0016.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"黄色小麦皮肤","code":"0017","icon":"fighter/skin/0017.png","images":[{"name":"0017.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"玫瑰海滩假日皮肤","code":"0018","icon":"fighter/skin/0018.png","images":[{"name":"0018.png","x":229,"y":281,"z":0,"width":41,"height":104},{"name":"0018.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"橙色激情皮肤","code":"0019","icon":"fighter/skin/0019.png","images":[{"name":"0019.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"生机盎然的嫩芽皮肤","code":"0020","icon":"fighter/skin/0020.png","images":[{"name":"0020.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":"骑士王的便服装扮","code":"80000","icon":"fighter/skin/80000.png","images":[{"name":"80000.png","x":227,"y":278,"z":0,"width":44,"height":107}]},{"name":"真 · 莉兹贝特 (SAO)","code":"80100","icon":"fighter/skin/80100.png","images":[{"name":"80100.png","x":227,"y":279,"z":0,"width":48,"height":106}]},{"name":"真 · 莉法 (ALO)","code":"80200","icon":"fighter/skin/80200.png","images":[{"name":"80200.png","x":223,"y":272,"z":0,"width":48,"height":113}]},{"name":null,"code":"80600","icon":"fighter/skin/80600.png","images":[{"name":"80600.png","x":203,"y":271,"z":0,"width":78,"height":119}]},{"name":null,"code":"80700","icon":"fighter/skin/80700.png","images":[{"name":"80700.png","x":203,"y":271,"z":0,"width":78,"height":119}]},{"name":"神秘人皮肤装扮","code":"80800","icon":"fighter/skin/80800.png","images":[{"name":"80800.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":null,"code":"90300","icon":"fighter/skin/90300.png","images":[{"name":"90300.png","x":217,"y":275,"z":0,"width":60,"height":112}]},{"name":null,"code":"80300","icon":"fighter/skin/80300.png","images":[{"name":"80300.png","x":197,"y":253,"z":0,"width":92,"height":146}]},{"name":null,"code":"80400","icon":"fighter/skin/80400.png","images":[{"name":"80400.png","x":197,"y":253,"z":0,"width":92,"height":146}]},{"name":null,"code":"80500","icon":"fighter/skin/80500.png","images":[{"name":"80500.png","x":197,"y":253,"z":0,"width":92,"height":146}]},{"name":null,"code":"0021","icon":"fighter/skin/0021.png","images":[{"name":"0021.png","x":229,"y":281,"z":0,"width":41,"height":104}]},{"name":null,"code":"0022","icon":"fighter/skin/0022.png","images":[{"name":"0022.png","x":229,"y":281,"z":0,"width":41,"height":104}]}]
+[
+  {
+    "code": "0000",
+    "name": "默认皮肤 (格斗家)",
+    "images": [
+      {
+        "name": "0000.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0000.png"
+  },
+  {
+    "code": "0001",
+    "name": "东之国度古铜皮肤",
+    "images": [
+      {
+        "name": "0001.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0001.png"
+  },
+  {
+    "code": "0002",
+    "name": "白色健美皮肤",
+    "images": [
+      {
+        "name": "0002.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0002.png"
+  },
+  {
+    "code": "0003",
+    "name": "巧克力色野性皮肤",
+    "images": [
+      {
+        "name": "0003.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0003.png"
+  },
+  {
+    "code": "0004",
+    "name": "东之国度杏色皮肤",
+    "images": [
+      {
+        "name": "0004.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0004.png"
+  },
+  {
+    "code": "0005",
+    "name": "怒海霸主灰色皮肤",
+    "images": [
+      {
+        "name": "0005.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0005.png"
+  },
+  {
+    "code": "0006",
+    "name": "黑色堕落皮肤",
+    "images": [
+      {
+        "name": "0006.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0006.png"
+  },
+  {
+    "code": "0007",
+    "name": "白玉色水嫩皮肤",
+    "images": [
+      {
+        "name": "0007.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0007.png"
+  },
+  {
+    "code": "0008",
+    "name": "红色燃情皮肤",
+    "images": [
+      {
+        "name": "0008.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0008.png"
+  },
+  {
+    "code": "0009",
+    "name": "蓝色恶魔皮肤",
+    "images": [
+      {
+        "name": "0009.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0009.png"
+  },
+  {
+    "code": "0010",
+    "name": "深色皮肤",
+    "images": [
+      {
+        "name": "0010.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0010.png"
+  },
+  {
+    "code": "0011",
+    "name": "东之国度乳白皮肤",
+    "images": [
+      {
+        "name": "0011.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0011.png"
+  },
+  {
+    "code": "0012",
+    "name": "黑檀色皮肤",
+    "images": [
+      {
+        "name": "0012.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0012.png"
+  },
+  {
+    "code": "0013",
+    "name": "黑色皮肤",
+    "images": [
+      {
+        "name": "0013.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0013.png"
+  },
+  {
+    "code": "0014",
+    "name": "棕巧克力色皮肤",
+    "images": [
+      {
+        "name": "0014.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0014.png"
+  },
+  {
+    "code": "0015",
+    "name": "深棕色皮肤",
+    "images": [
+      {
+        "name": "0015.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0015.png"
+  },
+  {
+    "code": "0016",
+    "name": "海蓝色皮肤",
+    "images": [
+      {
+        "name": "0016.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0016.png"
+  },
+  {
+    "code": "0017",
+    "name": "黄色皮肤",
+    "images": [
+      {
+        "name": "0017.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0017.png"
+  },
+  {
+    "code": "0018",
+    "name": "东之国度粉嫩皮肤",
+    "images": [
+      {
+        "name": "0018.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0018.png"
+  },
+  {
+    "code": "0019",
+    "name": "橙色激情皮肤",
+    "images": [
+      {
+        "name": "0019.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0019.png"
+  },
+  {
+    "code": "0020",
+    "name": "生机盎然的嫩芽皮肤",
+    "images": [
+      {
+        "name": "0020.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0020.png"
+  },
+  {
+    "code": "0021",
+    "name": "阿格纳特珠光皮肤",
+    "images": [
+      {
+        "name": "0021.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0021.png"
+  },
+  {
+    "code": "0022",
+    "name": "卡巴莉的象牙色皮肤",
+    "images": [
+      {
+        "name": "0022.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0022.png"
+  },
+  {
+    "code": "0023",
+    "name": "超能战队纯白皮肤[C款]",
+    "images": [
+      {
+        "name": "0023.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/0023.png"
+  },
+  {
+    "code": "80000",
+    "name": "骑士王的便服装扮",
+    "images": [
+      {
+        "name": "80000.png",
+        "width": 44,
+        "height": 107,
+        "x": 227,
+        "y": 278,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/80000.png"
+  },
+  {
+    "code": "80100",
+    "name": "莉兹贝特 (SAO)",
+    "images": [
+      {
+        "name": "80100.png",
+        "width": 48,
+        "height": 106,
+        "x": 227,
+        "y": 279,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/80100.png"
+  },
+  {
+    "code": "80200",
+    "name": "莉法 (ALO)",
+    "images": [
+      {
+        "name": "80200.png",
+        "width": 48,
+        "height": 113,
+        "x": 223,
+        "y": 272,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/80200.png"
+  },
+  {
+    "code": "80300",
+    "name": "光明御武霸者皮肤",
+    "images": [
+      {
+        "name": "80300.png",
+        "width": 92,
+        "height": 146,
+        "x": 197,
+        "y": 253,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/80300.png"
+  },
+  {
+    "code": "80400",
+    "name": "黄金御武霸者皮肤",
+    "images": [
+      {
+        "name": "80400.png",
+        "width": 92,
+        "height": 146,
+        "x": 197,
+        "y": 253,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/80400.png"
+  },
+  {
+    "code": "80500",
+    "name": "暗黑御武霸者皮肤",
+    "images": [
+      {
+        "name": "80500.png",
+        "width": 92,
+        "height": 146,
+        "x": 197,
+        "y": 253,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/80500.png"
+  },
+  {
+    "code": "80600",
+    "images": [
+      {
+        "name": "80600.png",
+        "width": 78,
+        "height": 119,
+        "x": 203,
+        "y": 271,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/80600.png"
+  },
+  {
+    "code": "80700",
+    "images": [
+      {
+        "name": "80700.png",
+        "width": 78,
+        "height": 119,
+        "x": 203,
+        "y": 271,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/80700.png"
+  },
+  {
+    "code": "80800",
+    "name": "神秘人皮肤装扮",
+    "images": [
+      {
+        "name": "80800.png",
+        "width": 41,
+        "height": 104,
+        "x": 229,
+        "y": 281,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/80800.png"
+  },
+  {
+    "code": "90300",
+    "images": [
+      {
+        "name": "90300.png",
+        "width": 60,
+        "height": 112,
+        "x": 217,
+        "y": 275,
+        "z": 0
+      }
+    ],
+    "icon": "fighter/skin/90300.png"
+  }
+]

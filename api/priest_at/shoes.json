@@ -1,1 +1,6220 @@
-[{"name":null,"code":"0000","icon":"priest_at/shoes/0000.png","images":[{"name":"0000a.png","x":239,"y":282,"z":1400,"width":25,"height":15}]},{"name":null,"code":"0100","icon":"priest_at/shoes/0100.png","images":[{"name":"0100a.png","x":239,"y":284,"z":1400,"width":25,"height":14}]},{"name":null,"code":"0101","icon":"priest_at/shoes/0101.png","images":[{"name":"0101a.png","x":239,"y":284,"z":1400,"width":25,"height":14}]},{"name":null,"code":"0102","icon":"priest_at/shoes/0102.png","images":[{"name":"0102a.png","x":239,"y":284,"z":1400,"width":25,"height":14}]},{"name":null,"code":"0103","icon":"priest_at/shoes/0103.png","images":[{"name":"0103a.png","x":239,"y":284,"z":1400,"width":25,"height":14}]},{"name":null,"code":"0200","icon":"priest_at/shoes/0200.png","images":[{"name":"0200a.png","x":239,"y":283,"z":1400,"width":25,"height":16}]},{"name":null,"code":"0201","icon":"priest_at/shoes/0201.png","images":[{"name":"0201a.png","x":239,"y":283,"z":1400,"width":25,"height":16}]},{"name":null,"code":"0202","icon":"priest_at/shoes/0202.png","images":[{"name":"0202a.png","x":239,"y":283,"z":1400,"width":25,"height":16}]},{"name":null,"code":"0203","icon":"priest_at/shoes/0203.png","images":[{"name":"0203a.png","x":239,"y":283,"z":1400,"width":25,"height":16}]},{"name":null,"code":"0300","icon":"priest_at/shoes/0300.png","images":[{"name":"0300a.png","x":238,"y":282,"z":1400,"width":26,"height":16}]},{"name":null,"code":"0301","icon":"priest_at/shoes/0301.png","images":[{"name":"0301a.png","x":238,"y":282,"z":1400,"width":26,"height":16}]},{"name":null,"code":"0302","icon":"priest_at/shoes/0302.png","images":[{"name":"0302a.png","x":238,"y":282,"z":1400,"width":26,"height":16}]},{"name":null,"code":"0303","icon":"priest_at/shoes/0303.png","images":[{"name":"0303a.png","x":238,"y":282,"z":1400,"width":26,"height":16}]},{"name":"银河玉衡怜心长靴","code":"0500","icon":"priest_at/shoes/0500.png","images":[{"name":"0500a.png","x":239,"y":279,"z":1400,"width":25,"height":19}]},{"name":"金河玉衡怜心长靴","code":"0501","icon":"priest_at/shoes/0501.png","images":[{"name":"0501a.png","x":239,"y":279,"z":1400,"width":25,"height":19}]},{"name":null,"code":"0600","icon":"priest_at/shoes/0600.png","images":[{"name":"0600a.png","x":239,"y":285,"z":1400,"width":24,"height":13}]},{"name":null,"code":"0601","icon":"priest_at/shoes/0601.png","images":[{"name":"0601a.png","x":239,"y":285,"z":1400,"width":24,"height":13}]},{"name":null,"code":"0602","icon":"priest_at/shoes/0602.png","images":[{"name":"0602a.png","x":239,"y":285,"z":1400,"width":24,"height":13}]},{"name":null,"code":"0603","icon":"priest_at/shoes/0603.png","images":[{"name":"0603a.png","x":239,"y":285,"z":1400,"width":24,"height":13}]},{"name":null,"code":"0700","icon":"priest_at/shoes/0700.png","images":[{"name":"0700a.png","x":239,"y":272,"z":1400,"width":24,"height":26}]},{"name":null,"code":"0701","icon":"priest_at/shoes/0701.png","images":[{"name":"0701a.png","x":239,"y":272,"z":1400,"width":24,"height":26}]},{"name":null,"code":"0702","icon":"priest_at/shoes/0702.png","images":[{"name":"0702a.png","x":239,"y":272,"z":1400,"width":24,"height":26}]},{"name":null,"code":"0703","icon":"priest_at/shoes/0703.png","images":[{"name":"0703a.png","x":239,"y":272,"z":1400,"width":24,"height":26}]},{"name":null,"code":"0800","icon":"priest_at/shoes/0800.png","images":[{"name":"0800a.png","x":239,"y":285,"z":1400,"width":25,"height":13},{"name":"0800b.png","x":240,"y":267,"z":1200,"width":18,"height":23}]},{"name":null,"code":"0801","icon":"priest_at/shoes/0801.png","images":[{"name":"0801a.png","x":239,"y":285,"z":1400,"width":25,"height":13},{"name":"0801b.png","x":240,"y":267,"z":1200,"width":18,"height":23}]},{"name":null,"code":"0802","icon":"priest_at/shoes/0802.png","images":[{"name":"0802a.png","x":239,"y":285,"z":1400,"width":25,"height":13},{"name":"0802b.png","x":240,"y":267,"z":1200,"width":18,"height":23}]},{"name":null,"code":"0803","icon":"priest_at/shoes/0803.png","images":[{"name":"0803a.png","x":239,"y":285,"z":1400,"width":25,"height":13},{"name":"0803b.png","x":240,"y":267,"z":1200,"width":18,"height":23}]},{"name":null,"code":"0900","icon":"priest_at/shoes/0900.png","images":[{"name":"0900a.png","x":239,"y":281,"z":1400,"width":25,"height":17}]},{"name":null,"code":"0901","icon":"priest_at/shoes/0901.png","images":[{"name":"0901a.png","x":239,"y":281,"z":1400,"width":25,"height":17}]},{"name":null,"code":"0902","icon":"priest_at/shoes/0902.png","images":[{"name":"0902a.png","x":239,"y":281,"z":1400,"width":25,"height":17}]},{"name":null,"code":"0903","icon":"priest_at/shoes/0903.png","images":[{"name":"0903a.png","x":239,"y":281,"z":1400,"width":25,"height":17}]},{"name":null,"code":"1000","icon":"priest_at/shoes/1000.png","images":[{"name":"1000a.png","x":239,"y":247,"z":1400,"width":24,"height":50}]},{"name":null,"code":"1001","icon":"priest_at/shoes/1001.png","images":[{"name":"1001a.png","x":239,"y":247,"z":1400,"width":24,"height":50}]},{"name":null,"code":"1002","icon":"priest_at/shoes/1002.png","images":[{"name":"1002a.png","x":239,"y":247,"z":1400,"width":24,"height":50}]},{"name":null,"code":"1003","icon":"priest_at/shoes/1003.png","images":[{"name":"1003a.png","x":239,"y":247,"z":1400,"width":24,"height":50}]},{"name":null,"code":"1100","icon":"priest_at/shoes/1100.png","images":[{"name":"1100a.png","x":239,"y":256,"z":1400,"width":24,"height":42}]},{"name":null,"code":"1101","icon":"priest_at/shoes/1101.png","images":[{"name":"1101a.png","x":239,"y":256,"z":1400,"width":24,"height":42}]},{"name":null,"code":"1102","icon":"priest_at/shoes/1102.png","images":[{"name":"1102a.png","x":239,"y":256,"z":1400,"width":24,"height":42}]},{"name":null,"code":"1103","icon":"priest_at/shoes/1103.png","images":[{"name":"1103a.png","x":239,"y":256,"z":1400,"width":24,"height":42}]},{"name":null,"code":"1200","icon":"priest_at/shoes/1200.png","images":[{"name":"1200a.png","x":238,"y":239,"z":1400,"width":25,"height":58}]},{"name":null,"code":"1201","icon":"priest_at/shoes/1201.png","images":[{"name":"1201a.png","x":238,"y":239,"z":1400,"width":25,"height":58}]},{"name":null,"code":"1202","icon":"priest_at/shoes/1202.png","images":[{"name":"1202a.png","x":238,"y":239,"z":1400,"width":25,"height":58}]},{"name":null,"code":"1203","icon":"priest_at/shoes/1203.png","images":[{"name":"1203a.png","x":238,"y":239,"z":1400,"width":25,"height":58}]},{"name":null,"code":"1302","icon":"priest_at/shoes/1302.png","images":[{"name":"1302a.png","x":239,"y":257,"z":1400,"width":24,"height":42}]},{"name":null,"code":"1400","icon":"priest_at/shoes/1400.png","images":[{"name":"1400a.png","x":239,"y":252,"z":1400,"width":25,"height":48}]},{"name":null,"code":"1401","icon":"priest_at/shoes/1401.png","images":[{"name":"1401a.png","x":239,"y":252,"z":1400,"width":25,"height":48}]},{"name":null,"code":"1402","icon":"priest_at/shoes/1402.png","images":[{"name":"1402a.png","x":239,"y":252,"z":1400,"width":25,"height":48}]},{"name":null,"code":"1502","icon":"priest_at/shoes/1502.png","images":[{"name":"1502a.png","x":239,"y":252,"z":1400,"width":26,"height":47},{"name":"1502a.png","x":239,"y":252,"z":1400,"width":26,"height":47}]},{"name":null,"code":"1503","icon":"priest_at/shoes/1503.png","images":[{"name":"1503a.png","x":239,"y":252,"z":1400,"width":26,"height":47},{"name":"1503a.png","x":239,"y":252,"z":1400,"width":26,"height":47}]},{"name":null,"code":"1504","icon":"priest_at/shoes/1504.png","images":[{"name":"1504a.png","x":239,"y":252,"z":1400,"width":26,"height":47},{"name":"1504a.png","x":239,"y":252,"z":1400,"width":26,"height":47}]},{"name":null,"code":"1700","icon":"priest_at/shoes/1700.png","images":[{"name":"1700a.png","x":239,"y":273,"z":1400,"width":24,"height":24}]},{"name":null,"code":"1701","icon":"priest_at/shoes/1701.png","images":[{"name":"1701a.png","x":239,"y":273,"z":1400,"width":24,"height":24}]},{"name":null,"code":"1702","icon":"priest_at/shoes/1702.png","images":[{"name":"1702a.png","x":239,"y":273,"z":1400,"width":24,"height":24}]},{"name":null,"code":"1703","icon":"priest_at/shoes/1703.png","images":[{"name":"1703a.png","x":239,"y":273,"z":1400,"width":24,"height":24}]},{"name":"海上夏日黑色脚链","code":"1800","icon":"priest_at/shoes/1800.png","images":[{"name":"1800a.png","x":239,"y":281,"z":1400,"width":6,"height":8},{"name":"1800b.png","x":245,"y":291,"z":1200,"width":17,"height":4}]},{"name":"海上夏日红色脚链","code":"1801","icon":"priest_at/shoes/1801.png","images":[{"name":"1801a.png","x":239,"y":281,"z":1400,"width":6,"height":8},{"name":"1801b.png","x":245,"y":291,"z":1200,"width":17,"height":4}]},{"name":"海上夏日白色脚链","code":"1802","icon":"priest_at/shoes/1802.png","images":[{"name":"1802a.png","x":239,"y":281,"z":1400,"width":6,"height":8},{"name":"1802b.png","x":245,"y":291,"z":1200,"width":17,"height":4}]},{"name":"海上夏日粉色脚链","code":"1803","icon":"priest_at/shoes/1803.png","images":[{"name":"1803a.png","x":239,"y":281,"z":1400,"width":6,"height":8},{"name":"1803b.png","x":245,"y":291,"z":1200,"width":17,"height":4}]},{"name":null,"code":"2000","icon":"priest_at/shoes/2000.png","images":[{"name":"2000a.png","x":239,"y":278,"z":1400,"width":24,"height":21}]},{"name":null,"code":"2001","icon":"priest_at/shoes/2001.png","images":[{"name":"2001a.png","x":239,"y":278,"z":1400,"width":24,"height":21}]},{"name":null,"code":"2002","icon":"priest_at/shoes/2002.png","images":[{"name":"2002a.png","x":239,"y":278,"z":1400,"width":24,"height":21}]},{"name":null,"code":"2003","icon":"priest_at/shoes/2003.png","images":[{"name":"2003a.png","x":239,"y":278,"z":1400,"width":24,"height":21}]},{"name":"热舞一夏红色鞋子","code":"2100","icon":"priest_at/shoes/2100.png","images":[{"name":"2100a.png","x":239,"y":280,"z":1400,"width":25,"height":19}]},{"name":"热舞一夏紫色鞋子","code":"2101","icon":"priest_at/shoes/2101.png","images":[{"name":"2101a.png","x":239,"y":280,"z":1400,"width":25,"height":19}]},{"name":"热舞一夏白色鞋子","code":"2102","icon":"priest_at/shoes/2102.png","images":[{"name":"2102a.png","x":239,"y":280,"z":1400,"width":25,"height":19}]},{"name":"热舞一夏粉色鞋子","code":"2103","icon":"priest_at/shoes/2103.png","images":[{"name":"2103a.png","x":239,"y":280,"z":1400,"width":25,"height":19}]},{"name":"海军风情白色长靴","code":"2200","icon":"priest_at/shoes/2200.png","images":[{"name":"2200a.png","x":239,"y":260,"z":1400,"width":24,"height":39}]},{"name":"海军风情黑色长靴","code":"2201","icon":"priest_at/shoes/2201.png","images":[{"name":"2201a.png","x":239,"y":260,"z":1400,"width":24,"height":39}]},{"name":"海军风情红色长靴","code":"2202","icon":"priest_at/shoes/2202.png","images":[{"name":"2202a.png","x":239,"y":260,"z":1400,"width":24,"height":39}]},{"name":"海军风情紫色长靴","code":"2203","icon":"priest_at/shoes/2203.png","images":[{"name":"2203a.png","x":239,"y":260,"z":1400,"width":24,"height":39}]},{"name":"深渊征服者装扮鞋子1","code":"2500","icon":"priest_at/shoes/2500.png","images":[{"name":"2500a.png","x":239,"y":274,"z":1400,"width":25,"height":23}]},{"name":"深渊征服者装扮鞋子2","code":"2501","icon":"priest_at/shoes/2501.png","images":[{"name":"2501a.png","x":239,"y":274,"z":1400,"width":25,"height":23}]},{"name":"深渊征服者装扮鞋子3","code":"2502","icon":"priest_at/shoes/2502.png","images":[{"name":"2502a.png","x":239,"y":274,"z":1400,"width":25,"height":23}]},{"name":"深渊征服者装扮鞋子4","code":"2503","icon":"priest_at/shoes/2503.png","images":[{"name":"2503a.png","x":239,"y":274,"z":1400,"width":25,"height":23}]},{"name":"传奇大镖客棕色长靴","code":"2600","icon":"priest_at/shoes/2600.png","images":[{"name":"2600a.png","x":239,"y":246,"z":1400,"width":24,"height":52}]},{"name":"传奇大镖客红色长靴","code":"2601","icon":"priest_at/shoes/2601.png","images":[{"name":"2601a.png","x":239,"y":246,"z":1400,"width":24,"height":52}]},{"name":"传奇大镖客黑色长靴","code":"2602","icon":"priest_at/shoes/2602.png","images":[{"name":"2602a.png","x":239,"y":246,"z":1400,"width":24,"height":52}]},{"name":"传奇大镖客绿色长靴","code":"2603","icon":"priest_at/shoes/2603.png","images":[{"name":"2603a.png","x":239,"y":246,"z":1400,"width":24,"height":52}]},{"name":null,"code":"2801","icon":"priest_at/shoes/2801.png","images":[{"name":"2801a.png","x":239,"y":278,"z":1400,"width":24,"height":21},{"name":"2801a.png","x":239,"y":278,"z":1400,"width":24,"height":21}]},{"name":null,"code":"2803","icon":"priest_at/shoes/2803.png","images":[{"name":"2803a.png","x":239,"y":278,"z":1400,"width":24,"height":21}]},{"name":"兽人英雄金色信仰战靴","code":"2900","icon":"priest_at/shoes/2900.png","images":[{"name":"2900a.png","x":239,"y":279,"z":1400,"width":24,"height":18}]},{"name":"兽人英雄红色信仰战靴","code":"2901","icon":"priest_at/shoes/2901.png","images":[{"name":"2901a.png","x":239,"y":279,"z":1400,"width":24,"height":18}]},{"name":"兽人英雄暖色信仰战靴","code":"2902","icon":"priest_at/shoes/2902.png","images":[{"name":"2902a.png","x":239,"y":279,"z":1400,"width":24,"height":18}]},{"name":"兽人英雄黑色信仰战靴","code":"2903","icon":"priest_at/shoes/2903.png","images":[{"name":"2903a.png","x":239,"y":279,"z":1400,"width":24,"height":18}]},{"name":null,"code":"3100","icon":"priest_at/shoes/3100.png","images":[{"name":"3100a.png","x":239,"y":243,"z":1400,"width":24,"height":55}]},{"name":"夜阑羲和浴日鞋子","code":"3200","icon":"priest_at/shoes/3200.png","images":[{"name":"3200a.png","x":239,"y":280,"z":1400,"width":25,"height":18}]},{"name":"拂晓羲和浴日鞋子","code":"3202","icon":"priest_at/shoes/3202.png","images":[{"name":"3202a.png","x":239,"y":280,"z":1400,"width":25,"height":18}]},{"name":"2018国庆时装装扮鞋子1","code":"3400","icon":"priest_at/shoes/3400.png","images":[{"name":"3400a.png","x":240,"y":258,"z":1400,"width":19,"height":34}]},{"name":"2018国庆时装装扮鞋子2","code":"3401","icon":"priest_at/shoes/3401.png","images":[{"name":"3401a.png","x":240,"y":258,"z":1400,"width":19,"height":34}]},{"name":"2018国庆时装装扮鞋子3","code":"3402","icon":"priest_at/shoes/3402.png","images":[{"name":"3402a.png","x":240,"y":258,"z":1400,"width":19,"height":34}]},{"name":"2018国庆时装装扮鞋子4","code":"3403","icon":"priest_at/shoes/3403.png","images":[{"name":"3403a.png","x":240,"y":258,"z":1400,"width":19,"height":34}]},{"name":null,"code":"3500","icon":"priest_at/shoes/3500.png","images":[{"name":"3500a.png","x":239,"y":286,"z":1400,"width":25,"height":12}]},{"name":null,"code":"3501","icon":"priest_at/shoes/3501.png","images":[{"name":"3501a.png","x":239,"y":286,"z":1400,"width":25,"height":12}]},{"name":null,"code":"3502","icon":"priest_at/shoes/3502.png","images":[{"name":"3502a.png","x":239,"y":286,"z":1400,"width":25,"height":12}]},{"name":null,"code":"3503","icon":"priest_at/shoes/3503.png","images":[{"name":"3503a.png","x":239,"y":286,"z":1400,"width":25,"height":12}]},{"name":null,"code":"3800","icon":"priest_at/shoes/3800.png","images":[{"name":"3800a.png","x":238,"y":277,"z":1400,"width":26,"height":21}]},{"name":null,"code":"3802","icon":"priest_at/shoes/3802.png","images":[{"name":"3802a.png","x":238,"y":277,"z":1400,"width":26,"height":21}]},{"name":null,"code":"4000","icon":"priest_at/shoes/4000.png","images":[{"name":"4000a.png","x":239,"y":279,"z":1400,"width":24,"height":20}]},{"name":null,"code":"4001","icon":"priest_at/shoes/4001.png","images":[{"name":"4001a.png","x":239,"y":279,"z":1400,"width":24,"height":20}]},{"name":null,"code":"4002","icon":"priest_at/shoes/4002.png","images":[{"name":"4002a.png","x":239,"y":279,"z":1400,"width":24,"height":20}]},{"name":null,"code":"4100","icon":"priest_at/shoes/4100.png","images":[{"name":"4100a.png","x":239,"y":241,"z":1400,"width":24,"height":58}]},{"name":null,"code":"4101","icon":"priest_at/shoes/4101.png","images":[{"name":"4101a.png","x":239,"y":241,"z":1400,"width":24,"height":58}]},{"name":null,"code":"4102","icon":"priest_at/shoes/4102.png","images":[{"name":"4102a.png","x":239,"y":241,"z":1400,"width":24,"height":58}]},{"name":null,"code":"4103","icon":"priest_at/shoes/4103.png","images":[{"name":"4103a.png","x":239,"y":241,"z":1400,"width":24,"height":58}]},{"name":null,"code":"4200","icon":"priest_at/shoes/4200.png","images":[{"name":"4200a.png","x":239,"y":285,"z":1400,"width":24,"height":12}]},{"name":null,"code":"4300","icon":"priest_at/shoes/4300.png","images":[{"name":"4300a.png","x":235,"y":272,"z":1400,"width":28,"height":28}]},{"name":null,"code":"4400","icon":"priest_at/shoes/4400.png","images":[{"name":"4400a.png","x":236,"y":275,"z":1400,"width":27,"height":25}]},{"name":null,"code":"4401","icon":"priest_at/shoes/4401.png","images":[{"name":"4401a.png","x":236,"y":275,"z":1400,"width":27,"height":25}]},{"name":null,"code":"4800","icon":"priest_at/shoes/4800.png","images":[{"name":"4800a.png","x":239,"y":276,"z":1400,"width":24,"height":22}]},{"name":null,"code":"4801","icon":"priest_at/shoes/4801.png","images":[{"name":"4801a.png","x":239,"y":276,"z":1400,"width":24,"height":22}]},{"name":null,"code":"4802","icon":"priest_at/shoes/4802.png","images":[{"name":"4802a.png","x":239,"y":276,"z":1400,"width":24,"height":22}]},{"name":null,"code":"4803","icon":"priest_at/shoes/4803.png","images":[{"name":"4803a.png","x":239,"y":276,"z":1400,"width":24,"height":22}]},{"name":null,"code":"4900","icon":"priest_at/shoes/4900.png","images":[{"name":"4900a.png","x":239,"y":258,"z":1400,"width":24,"height":41}]},{"name":null,"code":"4901","icon":"priest_at/shoes/4901.png","images":[{"name":"4901a.png","x":239,"y":258,"z":1400,"width":24,"height":41}]},{"name":null,"code":"4902","icon":"priest_at/shoes/4902.png","images":[{"name":"4902a.png","x":239,"y":258,"z":1400,"width":24,"height":41}]},{"name":null,"code":"4903","icon":"priest_at/shoes/4903.png","images":[{"name":"4903a.png","x":239,"y":258,"z":1400,"width":24,"height":41}]},{"name":null,"code":"3801","icon":"priest_at/shoes/3801.png","images":[{"name":"3801a.png","x":238,"y":277,"z":1400,"width":26,"height":21}]},{"name":null,"code":"1300","icon":"priest_at/shoes/1300.png","images":[{"name":"1300a.png","x":239,"y":257,"z":1400,"width":24,"height":42}]},{"name":null,"code":"1301","icon":"priest_at/shoes/1301.png","images":[{"name":"1301a.png","x":239,"y":257,"z":1400,"width":24,"height":42}]},{"name":null,"code":"1500","icon":"priest_at/shoes/1500.png","images":[{"name":"1500a.png","x":239,"y":252,"z":1400,"width":26,"height":47}]},{"name":null,"code":"1501","icon":"priest_at/shoes/1501.png","images":[{"name":"1501a.png","x":239,"y":252,"z":1400,"width":26,"height":47}]},{"name":null,"code":"1600","icon":"priest_at/shoes/1600.png","images":[{"name":"1600a.png","x":239,"y":246,"z":1400,"width":25,"height":52}]},{"name":null,"code":"1601","icon":"priest_at/shoes/1601.png","images":[{"name":"1601a.png","x":239,"y":246,"z":1400,"width":25,"height":52}]},{"name":null,"code":"2800","icon":"priest_at/shoes/2800.png","images":[{"name":"2800a.png","x":239,"y":278,"z":1400,"width":24,"height":21}]},{"name":null,"code":"3000","icon":"priest_at/shoes/3000.png","images":[{"name":"3000a.png","x":239,"y":288,"z":1400,"width":25,"height":12}]},{"name":null,"code":"3300","icon":"priest_at/shoes/3300.png","images":[{"name":"3300a.png","x":239,"y":279,"z":1400,"width":24,"height":20}]},{"name":null,"code":"3301","icon":"priest_at/shoes/3301.png","images":[{"name":"3301a.png","x":239,"y":279,"z":1400,"width":24,"height":20}]},{"name":null,"code":"3302","icon":"priest_at/shoes/3302.png","images":[{"name":"3302a.png","x":239,"y":279,"z":1400,"width":24,"height":20}]},{"name":null,"code":"3303","icon":"priest_at/shoes/3303.png","images":[{"name":"3303a.png","x":239,"y":279,"z":1400,"width":24,"height":20}]},{"name":null,"code":"3700","icon":"priest_at/shoes/3700.png","images":[{"name":"3700a.png","x":239,"y":258,"z":1400,"width":24,"height":40}]},{"name":null,"code":"3701","icon":"priest_at/shoes/3701.png","images":[{"name":"3701a.png","x":239,"y":258,"z":1400,"width":24,"height":40}]},{"name":null,"code":"3702","icon":"priest_at/shoes/3702.png","images":[{"name":"3702a.png","x":239,"y":258,"z":1400,"width":24,"height":40}]},{"name":null,"code":"3703","icon":"priest_at/shoes/3703.png","images":[{"name":"3703a.png","x":239,"y":258,"z":1400,"width":24,"height":40}]},{"name":null,"code":"3900","icon":"priest_at/shoes/3900.png","images":[{"name":"3900a.png","x":238,"y":279,"z":1400,"width":25,"height":19}]},{"name":null,"code":"3901","icon":"priest_at/shoes/3901.png","images":[{"name":"3901a.png","x":238,"y":279,"z":1400,"width":25,"height":19}]},{"name":null,"code":"3902","icon":"priest_at/shoes/3902.png","images":[{"name":"3902a.png","x":238,"y":279,"z":1400,"width":25,"height":19}]},{"name":null,"code":"4500","icon":"priest_at/shoes/4500.png","images":[{"name":"4500a.png","x":239,"y":278,"z":1400,"width":24,"height":19}]},{"name":null,"code":"4501","icon":"priest_at/shoes/4501.png","images":[{"name":"4501a.png","x":239,"y":278,"z":1400,"width":24,"height":19}]},{"name":null,"code":"4502","icon":"priest_at/shoes/4502.png","images":[{"name":"4502a.png","x":239,"y":278,"z":1400,"width":24,"height":19}]},{"name":null,"code":"4503","icon":"priest_at/shoes/4503.png","images":[{"name":"4503a.png","x":239,"y":278,"z":1400,"width":24,"height":19}]},{"name":null,"code":"4600","icon":"priest_at/shoes/4600.png","images":[{"name":"4600a.png","x":239,"y":276,"z":1400,"width":24,"height":23}]},{"name":null,"code":"4601","icon":"priest_at/shoes/4601.png","images":[{"name":"4601a.png","x":239,"y":276,"z":1400,"width":24,"height":23}]},{"name":null,"code":"4602","icon":"priest_at/shoes/4602.png","images":[{"name":"4602a.png","x":239,"y":276,"z":1400,"width":24,"height":23}]},{"name":null,"code":"4603","icon":"priest_at/shoes/4603.png","images":[{"name":"4603a.png","x":239,"y":276,"z":1400,"width":24,"height":23}]},{"name":null,"code":"5200","icon":"priest_at/shoes/5200.png","images":[{"name":"5200a.png","x":239,"y":242,"z":1400,"width":25,"height":56}]},{"name":null,"code":"5201","icon":"priest_at/shoes/5201.png","images":[{"name":"5201a.png","x":239,"y":242,"z":1400,"width":25,"height":56}]},{"name":null,"code":"5202","icon":"priest_at/shoes/5202.png","images":[{"name":"5202a.png","x":239,"y":242,"z":1400,"width":25,"height":56}]},{"name":null,"code":"5203","icon":"priest_at/shoes/5203.png","images":[{"name":"5203a.png","x":239,"y":242,"z":1400,"width":25,"height":56}]},{"name":null,"code":"0502","icon":"priest_at/shoes/0502.png","images":[{"name":"0502a.png","x":239,"y":279,"z":1400,"width":25,"height":19}]},{"name":null,"code":"1306","icon":"priest_at/shoes/1306.png","images":[{"name":"1306a.png","x":239,"y":257,"z":1400,"width":24,"height":42}]},{"name":null,"code":"3001","icon":"priest_at/shoes/3001.png","images":[{"name":"3001a.png","x":239,"y":288,"z":1400,"width":25,"height":12}]},{"name":null,"code":"3002","icon":"priest_at/shoes/3002.png","images":[{"name":"3002a.png","x":239,"y":288,"z":1400,"width":25,"height":12}]},{"name":null,"code":"4700","icon":"priest_at/shoes/4700.png","images":[{"name":"4700a.png","x":240,"y":282,"z":1400,"width":22,"height":13}]},{"name":null,"code":"4701","icon":"priest_at/shoes/4701.png","images":[{"name":"4701a.png","x":240,"y":282,"z":1400,"width":22,"height":13}]},{"name":null,"code":"4702","icon":"priest_at/shoes/4702.png","images":[{"name":"4702a.png","x":240,"y":282,"z":1400,"width":22,"height":13}]},{"name":null,"code":"4703","icon":"priest_at/shoes/4703.png","images":[{"name":"4703a.png","x":240,"y":282,"z":1400,"width":22,"height":13}]},{"name":null,"code":"5000","icon":"priest_at/shoes/5000.png","images":[{"name":"5000a.png","x":239,"y":281,"z":1400,"width":25,"height":17}]},{"name":null,"code":"5300","icon":"priest_at/shoes/5300.png","images":[{"name":"5300a.png","x":239,"y":277,"z":1400,"width":24,"height":20}]},{"name":null,"code":"5301","icon":"priest_at/shoes/5301.png","images":[{"name":"5301a.png","x":239,"y":277,"z":1400,"width":24,"height":20}]},{"name":null,"code":"5302","icon":"priest_at/shoes/5302.png","images":[{"name":"5302a.png","x":239,"y":277,"z":1400,"width":24,"height":20}]},{"name":null,"code":"5303","icon":"priest_at/shoes/5303.png","images":[{"name":"5303a.png","x":239,"y":277,"z":1400,"width":24,"height":20}]},{"name":null,"code":"5304","icon":"priest_at/shoes/5304.png","images":[{"name":"5304a.png","x":239,"y":277,"z":1400,"width":24,"height":20}]},{"name":null,"code":"5305","icon":"priest_at/shoes/5305.png","images":[{"name":"5305a.png","x":239,"y":277,"z":1400,"width":24,"height":20}]},{"name":null,"code":"5400","icon":"priest_at/shoes/5400.png","images":[{"name":"5400a.png","x":239,"y":266,"z":1400,"width":25,"height":32}]},{"name":null,"code":"5401","icon":"priest_at/shoes/5401.png","images":[{"name":"5401a.png","x":239,"y":266,"z":1400,"width":25,"height":32}]},{"name":null,"code":"5402","icon":"priest_at/shoes/5402.png","images":[{"name":"5402a.png","x":239,"y":266,"z":1400,"width":25,"height":32}]},{"name":null,"code":"5500","icon":"priest_at/shoes/5500.png","images":[{"name":"5500a.png","x":237,"y":279,"z":1400,"width":28,"height":19}]},{"name":null,"code":"5501","icon":"priest_at/shoes/5501.png","images":[{"name":"5501a.png","x":237,"y":279,"z":1400,"width":28,"height":19}]},{"name":null,"code":"5502","icon":"priest_at/shoes/5502.png","images":[{"name":"5502a.png","x":237,"y":279,"z":1400,"width":28,"height":19}]},{"name":null,"code":"5503","icon":"priest_at/shoes/5503.png","images":[{"name":"5503a.png","x":237,"y":279,"z":1400,"width":28,"height":19}]},{"name":null,"code":"5800","icon":"priest_at/shoes/5800.png","images":[{"name":"5800a.png","x":239,"y":283,"z":1400,"width":24,"height":15}]},{"name":null,"code":"5801","icon":"priest_at/shoes/5801.png","images":[{"name":"5801a.png","x":239,"y":283,"z":1400,"width":24,"height":15}]},{"name":null,"code":"5802","icon":"priest_at/shoes/5802.png","images":[{"name":"5802a.png","x":239,"y":283,"z":1400,"width":24,"height":15}]},{"name":null,"code":"5803","icon":"priest_at/shoes/5803.png","images":[{"name":"5803a.png","x":239,"y":283,"z":1400,"width":24,"height":15}]},{"name":null,"code":"1303","icon":"priest_at/shoes/1303.png","images":[{"name":"1303a.png","x":239,"y":257,"z":1400,"width":24,"height":42}]},{"name":null,"code":"5900","icon":"priest_at/shoes/5900.png","images":[{"name":"5900a.png","x":237,"y":283,"z":1400,"width":26,"height":15}]},{"name":null,"code":"5901","icon":"priest_at/shoes/5901.png","images":[{"name":"5901a.png","x":237,"y":283,"z":1400,"width":26,"height":15}]},{"name":null,"code":"5902","icon":"priest_at/shoes/5902.png","images":[{"name":"5902a.png","x":237,"y":283,"z":1400,"width":26,"height":15}]},{"name":null,"code":"5903","icon":"priest_at/shoes/5903.png","images":[{"name":"5903a.png","x":237,"y":283,"z":1400,"width":26,"height":15}]},{"name":null,"code":"6100","icon":"priest_at/shoes/6100.png","images":[{"name":"6100a.png","x":239,"y":249,"z":1400,"width":25,"height":50}]},{"name":null,"code":"6101","icon":"priest_at/shoes/6101.png","images":[{"name":"6101a.png","x":239,"y":249,"z":1400,"width":25,"height":50}]},{"name":null,"code":"6200","icon":"priest_at/shoes/6200.png","images":[{"name":"6200a.png","x":239,"y":282,"z":1400,"width":24,"height":15},{"name":"6200d.png","x":240,"y":265,"z":0,"width":7,"height":22}]},{"name":null,"code":"6201","icon":"priest_at/shoes/6201.png","images":[{"name":"6201a.png","x":239,"y":282,"z":1400,"width":24,"height":15},{"name":"6201d.png","x":240,"y":265,"z":0,"width":7,"height":22}]},{"name":null,"code":"6202","icon":"priest_at/shoes/6202.png","images":[{"name":"6202a.png","x":239,"y":282,"z":1400,"width":24,"height":15},{"name":"6202d.png","x":240,"y":265,"z":0,"width":7,"height":22}]},{"name":null,"code":"6203","icon":"priest_at/shoes/6203.png","images":[{"name":"6203a.png","x":239,"y":282,"z":1400,"width":24,"height":15},{"name":"6203d.png","x":240,"y":265,"z":0,"width":7,"height":22}]},{"name":null,"code":"6300","icon":"priest_at/shoes/6300.png","images":[{"name":"6300a.png","x":239,"y":248,"z":1400,"width":25,"height":51},{"name":"6300g.png","x":240,"y":254,"z":1450,"width":20,"height":41}]},{"name":null,"code":"6700","icon":"priest_at/shoes/6700.png","images":[{"name":"6700a.png","x":239,"y":271,"z":1400,"width":24,"height":28}]},{"name":null,"code":"6701","icon":"priest_at/shoes/6701.png","images":[{"name":"6701a.png","x":239,"y":271,"z":1400,"width":24,"height":28}]},{"name":null,"code":"6702","icon":"priest_at/shoes/6702.png","images":[{"name":"6702a.png","x":239,"y":271,"z":1400,"width":24,"height":28}]},{"name":null,"code":"6703","icon":"priest_at/shoes/6703.png","images":[{"name":"6703a.png","x":239,"y":271,"z":1400,"width":24,"height":28}]},{"name":null,"code":"6800","icon":"priest_at/shoes/6800.png","images":[{"name":"6800a.png","x":236,"y":280,"z":1400,"width":31,"height":19}]},{"name":null,"code":"7000","icon":"priest_at/shoes/7000.png","images":[{"name":"7000a.png","x":236,"y":277,"z":1400,"width":29,"height":22}]},{"name":null,"code":"7001","icon":"priest_at/shoes/7001.png","images":[{"name":"7001a.png","x":236,"y":277,"z":1400,"width":29,"height":22}]},{"name":null,"code":"7002","icon":"priest_at/shoes/7002.png","images":[{"name":"7002a.png","x":236,"y":277,"z":1400,"width":29,"height":22}]}]
+[
+  {
+    "code": "0000",
+    "name": "at priest basic shoes avatar",
+    "images": [
+      {
+        "name": "0000a.png",
+        "width": 25,
+        "height": 15,
+        "x": 239,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "0000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0000.png"
+  },
+  {
+    "code": "0001",
+    "name": "光暗双生鞋子",
+    "images": [
+      {
+        "name": "0001a.png",
+        "width": 25,
+        "height": 15,
+        "x": 239,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "0001b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0001.png"
+  },
+  {
+    "code": "0100",
+    "name": "运动少女红色鞋子",
+    "images": [
+      {
+        "name": "0100a.png",
+        "width": 25,
+        "height": 14,
+        "x": 239,
+        "y": 284,
+        "z": 1400
+      },
+      {
+        "name": "0100b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0100.png"
+  },
+  {
+    "code": "0101",
+    "name": "运动少女黑色鞋子",
+    "images": [
+      {
+        "name": "0101a.png",
+        "width": 25,
+        "height": 14,
+        "x": 239,
+        "y": 284,
+        "z": 1400
+      },
+      {
+        "name": "0101b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0101.png"
+  },
+  {
+    "code": "0102",
+    "name": "运动少女蓝色鞋子",
+    "images": [
+      {
+        "name": "0102a.png",
+        "width": 25,
+        "height": 14,
+        "x": 239,
+        "y": 284,
+        "z": 1400
+      },
+      {
+        "name": "0102b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0102.png"
+  },
+  {
+    "code": "0103",
+    "name": "运动少女紫色鞋子",
+    "images": [
+      {
+        "name": "0103a.png",
+        "width": 25,
+        "height": 14,
+        "x": 239,
+        "y": 284,
+        "z": 1400
+      },
+      {
+        "name": "0103b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0103.png"
+  },
+  {
+    "code": "0200",
+    "name": "化装舞会歌兰蒂斯奶白鞋子",
+    "images": [
+      {
+        "name": "0200a.png",
+        "width": 25,
+        "height": 16,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "0200b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0200.png"
+  },
+  {
+    "code": "0201",
+    "name": "化装舞会歌兰蒂斯黑色鞋子",
+    "images": [
+      {
+        "name": "0201a.png",
+        "width": 25,
+        "height": 16,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "0201b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0201.png"
+  },
+  {
+    "code": "0202",
+    "name": "化装舞会歌兰蒂斯蓝色鞋子",
+    "images": [
+      {
+        "name": "0202a.png",
+        "width": 25,
+        "height": 16,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "0202b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0202.png"
+  },
+  {
+    "code": "0203",
+    "name": "化装舞会歌兰蒂斯粉色鞋子",
+    "images": [
+      {
+        "name": "0203a.png",
+        "width": 25,
+        "height": 16,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "0203b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0203.png"
+  },
+  {
+    "code": "0300",
+    "name": "元气少女浅黑色鞋子",
+    "images": [
+      {
+        "name": "0300a.png",
+        "width": 26,
+        "height": 16,
+        "x": 238,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "0300b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0300.png"
+  },
+  {
+    "code": "0301",
+    "name": "元气少女浅红色鞋子",
+    "images": [
+      {
+        "name": "0301a.png",
+        "width": 26,
+        "height": 16,
+        "x": 238,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "0301b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0301.png"
+  },
+  {
+    "code": "0302",
+    "name": "元气少女深蓝色鞋子",
+    "images": [
+      {
+        "name": "0302a.png",
+        "width": 26,
+        "height": 16,
+        "x": 238,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "0302b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0302.png"
+  },
+  {
+    "code": "0303",
+    "name": "元气少女浅蓝色鞋子",
+    "images": [
+      {
+        "name": "0303a.png",
+        "width": 26,
+        "height": 16,
+        "x": 238,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "0303b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0303.png"
+  },
+  {
+    "code": "0500",
+    "name": "白色虔诚优雅皮鞋",
+    "images": [
+      {
+        "name": "0500a.png",
+        "width": 25,
+        "height": 19,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "0500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0500.png"
+  },
+  {
+    "code": "0501",
+    "name": "红色虔诚优雅皮鞋",
+    "images": [
+      {
+        "name": "0501a.png",
+        "width": 25,
+        "height": 19,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "0501b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0501.png"
+  },
+  {
+    "code": "0502",
+    "name": "蓝色虔诚优雅皮鞋",
+    "images": [
+      {
+        "name": "0502a.png",
+        "width": 25,
+        "height": 19,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "0502b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0502.png"
+  },
+  {
+    "code": "0600",
+    "name": "腾龙之颂黑色短靴",
+    "images": [
+      {
+        "name": "0600a.png",
+        "width": 24,
+        "height": 13,
+        "x": 239,
+        "y": 285,
+        "z": 1400
+      },
+      {
+        "name": "0600b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0600.png"
+  },
+  {
+    "code": "0601",
+    "name": "腾龙之颂蓝色短靴",
+    "images": [
+      {
+        "name": "0601a.png",
+        "width": 24,
+        "height": 13,
+        "x": 239,
+        "y": 285,
+        "z": 1400
+      },
+      {
+        "name": "0601b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0601.png"
+  },
+  {
+    "code": "0602",
+    "name": "腾龙之颂粉色短靴",
+    "images": [
+      {
+        "name": "0602a.png",
+        "width": 24,
+        "height": 13,
+        "x": 239,
+        "y": 285,
+        "z": 1400
+      },
+      {
+        "name": "0602b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0602.png"
+  },
+  {
+    "code": "0603",
+    "name": "腾龙之颂青绿短靴",
+    "images": [
+      {
+        "name": "0603a.png",
+        "width": 24,
+        "height": 13,
+        "x": 239,
+        "y": 285,
+        "z": 1400
+      },
+      {
+        "name": "0603b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0603.png"
+  },
+  {
+    "code": "0700",
+    "name": "校园新生紫色绑带靴",
+    "images": [
+      {
+        "name": "0700a.png",
+        "width": 24,
+        "height": 26,
+        "x": 239,
+        "y": 272,
+        "z": 1400
+      },
+      {
+        "name": "0700b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0700.png"
+  },
+  {
+    "code": "0701",
+    "name": "校园新生黑色绑带靴",
+    "images": [
+      {
+        "name": "0701a.png",
+        "width": 24,
+        "height": 26,
+        "x": 239,
+        "y": 272,
+        "z": 1400
+      },
+      {
+        "name": "0701b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0701.png"
+  },
+  {
+    "code": "0702",
+    "name": "校园新生白色绑带靴",
+    "images": [
+      {
+        "name": "0702a.png",
+        "width": 24,
+        "height": 26,
+        "x": 239,
+        "y": 272,
+        "z": 1400
+      },
+      {
+        "name": "0702b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0702.png"
+  },
+  {
+    "code": "0703",
+    "name": "校园新生棕色绑带靴",
+    "images": [
+      {
+        "name": "0703a.png",
+        "width": 24,
+        "height": 26,
+        "x": 239,
+        "y": 272,
+        "z": 1400
+      },
+      {
+        "name": "0703b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0703.png"
+  },
+  {
+    "code": "0800",
+    "name": "神女棕黄皮鞋",
+    "images": [
+      {
+        "name": "0800a.png",
+        "width": 25,
+        "height": 13,
+        "x": 239,
+        "y": 285,
+        "z": 1400
+      },
+      {
+        "name": "0800b.png",
+        "width": 18,
+        "height": 23,
+        "x": 240,
+        "y": 267,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0800.png"
+  },
+  {
+    "code": "0801",
+    "name": "神女灰色皮鞋",
+    "images": [
+      {
+        "name": "0801a.png",
+        "width": 25,
+        "height": 13,
+        "x": 239,
+        "y": 285,
+        "z": 1400
+      },
+      {
+        "name": "0801b.png",
+        "width": 18,
+        "height": 23,
+        "x": 240,
+        "y": 267,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0801.png"
+  },
+  {
+    "code": "0802",
+    "name": "神女棕红皮鞋",
+    "images": [
+      {
+        "name": "0802a.png",
+        "width": 25,
+        "height": 13,
+        "x": 239,
+        "y": 285,
+        "z": 1400
+      },
+      {
+        "name": "0802b.png",
+        "width": 18,
+        "height": 23,
+        "x": 240,
+        "y": 267,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0802.png"
+  },
+  {
+    "code": "0803",
+    "name": "神女灰粉皮鞋",
+    "images": [
+      {
+        "name": "0803a.png",
+        "width": 25,
+        "height": 13,
+        "x": 239,
+        "y": 285,
+        "z": 1400
+      },
+      {
+        "name": "0803b.png",
+        "width": 18,
+        "height": 23,
+        "x": 240,
+        "y": 267,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0803.png"
+  },
+  {
+    "code": "0900",
+    "name": "断罪者黑高跟鞋",
+    "images": [
+      {
+        "name": "0900a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "0900b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0900.png"
+  },
+  {
+    "code": "0901",
+    "name": "断罪者红高跟鞋",
+    "images": [
+      {
+        "name": "0901a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "0901b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0901.png"
+  },
+  {
+    "code": "0902",
+    "name": "断罪者蓝高跟鞋",
+    "images": [
+      {
+        "name": "0902a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "0902b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0902.png"
+  },
+  {
+    "code": "0903",
+    "name": "断罪者紫高跟鞋",
+    "images": [
+      {
+        "name": "0903a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "0903b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/0903.png"
+  },
+  {
+    "code": "1000",
+    "name": "猎龙者金色虔诚战靴",
+    "images": [
+      {
+        "name": "1000a.png",
+        "width": 24,
+        "height": 50,
+        "x": 239,
+        "y": 247,
+        "z": 1400
+      },
+      {
+        "name": "1000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1000.png"
+  },
+  {
+    "code": "1001",
+    "name": "猎龙者银色虔诚战靴",
+    "images": [
+      {
+        "name": "1001a.png",
+        "width": 24,
+        "height": 50,
+        "x": 239,
+        "y": 247,
+        "z": 1400
+      },
+      {
+        "name": "1001b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1001.png"
+  },
+  {
+    "code": "1002",
+    "name": "猎龙者黑色虔诚战靴",
+    "images": [
+      {
+        "name": "1002a.png",
+        "width": 24,
+        "height": 50,
+        "x": 239,
+        "y": 247,
+        "z": 1400
+      },
+      {
+        "name": "1002b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1002.png"
+  },
+  {
+    "code": "1003",
+    "name": "猎龙者蓝色虔诚战靴",
+    "images": [
+      {
+        "name": "1003a.png",
+        "width": 24,
+        "height": 50,
+        "x": 239,
+        "y": 247,
+        "z": 1400
+      },
+      {
+        "name": "1003b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1003.png"
+  },
+  {
+    "code": "1100",
+    "name": "神焰处刑官白色长靴",
+    "images": [
+      {
+        "name": "1100a.png",
+        "width": 24,
+        "height": 42,
+        "x": 239,
+        "y": 256,
+        "z": 1400
+      },
+      {
+        "name": "1100b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1100.png"
+  },
+  {
+    "code": "1101",
+    "name": "神焰处刑官黄色长靴",
+    "images": [
+      {
+        "name": "1101a.png",
+        "width": 24,
+        "height": 42,
+        "x": 239,
+        "y": 256,
+        "z": 1400
+      },
+      {
+        "name": "1101b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1101.png"
+  },
+  {
+    "code": "1102",
+    "name": "神焰处刑官浅蓝长靴",
+    "images": [
+      {
+        "name": "1102a.png",
+        "width": 24,
+        "height": 42,
+        "x": 239,
+        "y": 256,
+        "z": 1400
+      },
+      {
+        "name": "1102b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1102.png"
+  },
+  {
+    "code": "1103",
+    "name": "神焰处刑官黑色长靴",
+    "images": [
+      {
+        "name": "1103a.png",
+        "width": 24,
+        "height": 42,
+        "x": 239,
+        "y": 256,
+        "z": 1400
+      },
+      {
+        "name": "1103b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1103.png"
+  },
+  {
+    "code": "1200",
+    "name": "福音传道者浅灰皮鞋",
+    "images": [
+      {
+        "name": "1200a.png",
+        "width": 25,
+        "height": 58,
+        "x": 238,
+        "y": 239,
+        "z": 1400
+      },
+      {
+        "name": "1200b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1200.png"
+  },
+  {
+    "code": "1201",
+    "name": "福音传道者黑色皮鞋",
+    "images": [
+      {
+        "name": "1201a.png",
+        "width": 25,
+        "height": 58,
+        "x": 238,
+        "y": 239,
+        "z": 1400
+      },
+      {
+        "name": "1201b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1201.png"
+  },
+  {
+    "code": "1202",
+    "name": "福音传道者白色皮鞋",
+    "images": [
+      {
+        "name": "1202a.png",
+        "width": 25,
+        "height": 58,
+        "x": 238,
+        "y": 239,
+        "z": 1400
+      },
+      {
+        "name": "1202b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1202.png"
+  },
+  {
+    "code": "1203",
+    "name": "福音传道者红色皮鞋",
+    "images": [
+      {
+        "name": "1203a.png",
+        "width": 25,
+        "height": 58,
+        "x": 238,
+        "y": 239,
+        "z": 1400
+      },
+      {
+        "name": "1203b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1203.png"
+  },
+  {
+    "code": "1300",
+    "name": "暗黑胧光祈愿长靴",
+    "images": [
+      {
+        "name": "1300a.png",
+        "width": 24,
+        "height": 42,
+        "x": 239,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "1300b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1300.png"
+  },
+  {
+    "code": "1301",
+    "name": "黄金胧光祈愿长靴",
+    "images": [
+      {
+        "name": "1301a.png",
+        "width": 24,
+        "height": 42,
+        "x": 239,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "1301b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1301.png"
+  },
+  {
+    "code": "1302",
+    "name": "白银胧光祈愿长靴",
+    "images": [
+      {
+        "name": "1302a.png",
+        "width": 24,
+        "height": 42,
+        "x": 239,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "1302b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1302.png"
+  },
+  {
+    "code": "1303",
+    "name": "白金胧光祈愿长靴",
+    "images": [
+      {
+        "name": "1303a.png",
+        "width": 24,
+        "height": 42,
+        "x": 239,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "1303b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1303.png"
+  },
+  {
+    "code": "1304",
+    "name": "苍蓝胧光祈愿长靴",
+    "images": [
+      {
+        "name": "1304a.png",
+        "width": 24,
+        "height": 42,
+        "x": 239,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "1304b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1304.png"
+  },
+  {
+    "code": "1306",
+    "name": "冰凌胧光祈愿长靴",
+    "images": [
+      {
+        "name": "1306a.png",
+        "width": 24,
+        "height": 42,
+        "x": 239,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "1306b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1306.png"
+  },
+  {
+    "code": "1400",
+    "name": "银河玉衡怜心长靴",
+    "images": [
+      {
+        "name": "1400a.png",
+        "width": 25,
+        "height": 48,
+        "x": 239,
+        "y": 252,
+        "z": 1400
+      },
+      {
+        "name": "1400b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1400.png"
+  },
+  {
+    "code": "1401",
+    "name": "烈曜玉衡怜心长靴",
+    "images": [
+      {
+        "name": "1401a.png",
+        "width": 25,
+        "height": 48,
+        "x": 239,
+        "y": 252,
+        "z": 1400
+      },
+      {
+        "name": "1401b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1401.png"
+  },
+  {
+    "code": "1402",
+    "name": "星渊玉衡怜心长靴",
+    "images": [
+      {
+        "name": "1402a.png",
+        "width": 25,
+        "height": 48,
+        "x": 239,
+        "y": 252,
+        "z": 1400
+      },
+      {
+        "name": "1402b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1402.png"
+  },
+  {
+    "code": "1500",
+    "name": "暗影醉舞清影长靴",
+    "images": [
+      {
+        "name": "1500a.png",
+        "width": 26,
+        "height": 47,
+        "x": 239,
+        "y": 252,
+        "z": 1400
+      },
+      {
+        "name": "1500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1500.png"
+  },
+  {
+    "code": "1501",
+    "name": "流光醉舞清影长靴",
+    "images": [
+      {
+        "name": "1501a.png",
+        "width": 26,
+        "height": 47,
+        "x": 239,
+        "y": 252,
+        "z": 1400
+      },
+      {
+        "name": "1501b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1501.png"
+  },
+  {
+    "code": "1502",
+    "name": "蝶梦神启天御长靴",
+    "images": [
+      {
+        "name": "1502a.png",
+        "width": 26,
+        "height": 47,
+        "x": 239,
+        "y": 252,
+        "z": 1400
+      },
+      {
+        "name": "1502b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1502.png"
+  },
+  {
+    "code": "1503",
+    "name": "墨魂醉舞清影长靴",
+    "images": [
+      {
+        "name": "1503a.png",
+        "width": 26,
+        "height": 47,
+        "x": 239,
+        "y": 252,
+        "z": 1400
+      },
+      {
+        "name": "1503b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1503.png"
+  },
+  {
+    "code": "1504",
+    "name": "炫彩神启天御长靴",
+    "images": [
+      {
+        "name": "1504a.png",
+        "width": 26,
+        "height": 47,
+        "x": 239,
+        "y": 252,
+        "z": 1400
+      },
+      {
+        "name": "1504b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1504.png"
+  },
+  {
+    "code": "1600",
+    "name": "辉光慈云柔露战靴",
+    "images": [
+      {
+        "name": "1600a.png",
+        "width": 25,
+        "height": 52,
+        "x": 239,
+        "y": 246,
+        "z": 1400
+      },
+      {
+        "name": "1600b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1600.png"
+  },
+  {
+    "code": "1601",
+    "name": "黑曜慈云柔露战靴",
+    "images": [
+      {
+        "name": "1601a.png",
+        "width": 25,
+        "height": 52,
+        "x": 239,
+        "y": 246,
+        "z": 1400
+      },
+      {
+        "name": "1601b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1601.png"
+  },
+  {
+    "code": "1700",
+    "name": "游牧之国红色长靴",
+    "images": [
+      {
+        "name": "1700a.png",
+        "width": 24,
+        "height": 24,
+        "x": 239,
+        "y": 273,
+        "z": 1400
+      },
+      {
+        "name": "1700b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1700.png"
+  },
+  {
+    "code": "1701",
+    "name": "游牧之国黑色长靴",
+    "images": [
+      {
+        "name": "1701a.png",
+        "width": 24,
+        "height": 24,
+        "x": 239,
+        "y": 273,
+        "z": 1400
+      },
+      {
+        "name": "1701b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1701.png"
+  },
+  {
+    "code": "1702",
+    "name": "游牧之国蓝色长靴",
+    "images": [
+      {
+        "name": "1702a.png",
+        "width": 24,
+        "height": 24,
+        "x": 239,
+        "y": 273,
+        "z": 1400
+      },
+      {
+        "name": "1702b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1702.png"
+  },
+  {
+    "code": "1703",
+    "name": "游牧之国粉色长靴",
+    "images": [
+      {
+        "name": "1703a.png",
+        "width": 24,
+        "height": 24,
+        "x": 239,
+        "y": 273,
+        "z": 1400
+      },
+      {
+        "name": "1703b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1703.png"
+  },
+  {
+    "code": "1800",
+    "name": "盛夏阳光岛屿黑色脚链",
+    "images": [
+      {
+        "name": "1800a.png",
+        "width": 6,
+        "height": 8,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "1800b.png",
+        "width": 17,
+        "height": 4,
+        "x": 245,
+        "y": 291,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1800.png"
+  },
+  {
+    "code": "1801",
+    "name": "盛夏阳光岛屿红色脚链",
+    "images": [
+      {
+        "name": "1801a.png",
+        "width": 6,
+        "height": 8,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "1801b.png",
+        "width": 17,
+        "height": 4,
+        "x": 245,
+        "y": 291,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1801.png"
+  },
+  {
+    "code": "1802",
+    "name": "盛夏阳光岛屿白色脚链",
+    "images": [
+      {
+        "name": "1802a.png",
+        "width": 6,
+        "height": 8,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "1802b.png",
+        "width": 17,
+        "height": 4,
+        "x": 245,
+        "y": 291,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1802.png"
+  },
+  {
+    "code": "1803",
+    "name": "盛夏阳光岛屿粉色脚链",
+    "images": [
+      {
+        "name": "1803a.png",
+        "width": 6,
+        "height": 8,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "1803b.png",
+        "width": 17,
+        "height": 4,
+        "x": 245,
+        "y": 291,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/1803.png"
+  },
+  {
+    "code": "2000",
+    "name": "绯樱之舞蓝色木履",
+    "images": [
+      {
+        "name": "2000a.png",
+        "width": 24,
+        "height": 21,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "2000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2000.png"
+  },
+  {
+    "code": "2001",
+    "name": "绯樱之舞粉色木履",
+    "images": [
+      {
+        "name": "2001a.png",
+        "width": 24,
+        "height": 21,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "2001b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2001.png"
+  },
+  {
+    "code": "2002",
+    "name": "绯樱之舞红色木履",
+    "images": [
+      {
+        "name": "2002a.png",
+        "width": 24,
+        "height": 21,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "2002b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2002.png"
+  },
+  {
+    "code": "2003",
+    "name": "绯樱之舞天蓝木履",
+    "images": [
+      {
+        "name": "2003a.png",
+        "width": 24,
+        "height": 21,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "2003b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2003.png"
+  },
+  {
+    "code": "2100",
+    "name": "热舞一夏红色鞋子",
+    "images": [
+      {
+        "name": "2100a.png",
+        "width": 25,
+        "height": 19,
+        "x": 239,
+        "y": 280,
+        "z": 1400
+      },
+      {
+        "name": "2100b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2100.png"
+  },
+  {
+    "code": "2101",
+    "name": "热舞一夏紫色鞋子",
+    "images": [
+      {
+        "name": "2101a.png",
+        "width": 25,
+        "height": 19,
+        "x": 239,
+        "y": 280,
+        "z": 1400
+      },
+      {
+        "name": "2101b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2101.png"
+  },
+  {
+    "code": "2102",
+    "name": "热舞一夏白色鞋子",
+    "images": [
+      {
+        "name": "2102a.png",
+        "width": 25,
+        "height": 19,
+        "x": 239,
+        "y": 280,
+        "z": 1400
+      },
+      {
+        "name": "2102b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2102.png"
+  },
+  {
+    "code": "2103",
+    "name": "热舞一夏粉色鞋子",
+    "images": [
+      {
+        "name": "2103a.png",
+        "width": 25,
+        "height": 19,
+        "x": 239,
+        "y": 280,
+        "z": 1400
+      },
+      {
+        "name": "2103b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2103.png"
+  },
+  {
+    "code": "2200",
+    "name": "海军风情白色长靴",
+    "images": [
+      {
+        "name": "2200a.png",
+        "width": 24,
+        "height": 39,
+        "x": 239,
+        "y": 260,
+        "z": 1400
+      },
+      {
+        "name": "2200b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2200.png"
+  },
+  {
+    "code": "2201",
+    "name": "海军风情黑色长靴",
+    "images": [
+      {
+        "name": "2201a.png",
+        "width": 24,
+        "height": 39,
+        "x": 239,
+        "y": 260,
+        "z": 1400
+      },
+      {
+        "name": "2201b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2201.png"
+  },
+  {
+    "code": "2202",
+    "name": "海军风情红色长靴",
+    "images": [
+      {
+        "name": "2202a.png",
+        "width": 24,
+        "height": 39,
+        "x": 239,
+        "y": 260,
+        "z": 1400
+      },
+      {
+        "name": "2202b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2202.png"
+  },
+  {
+    "code": "2203",
+    "name": "海军风情紫色长靴",
+    "images": [
+      {
+        "name": "2203a.png",
+        "width": 24,
+        "height": 39,
+        "x": 239,
+        "y": 260,
+        "z": 1400
+      },
+      {
+        "name": "2203b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2203.png"
+  },
+  {
+    "code": "2204",
+    "name": "海军风情远航长靴",
+    "images": [
+      {
+        "name": "2204a.png",
+        "width": 24,
+        "height": 39,
+        "x": 239,
+        "y": 260,
+        "z": 1400
+      },
+      {
+        "name": "2204b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2204.png"
+  },
+  {
+    "code": "2500",
+    "name": "星辰命运红色战靴",
+    "images": [
+      {
+        "name": "2500a.png",
+        "width": 25,
+        "height": 23,
+        "x": 239,
+        "y": 274,
+        "z": 1400
+      },
+      {
+        "name": "2500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2500.png"
+  },
+  {
+    "code": "2501",
+    "name": "星辰命运黑色战靴",
+    "images": [
+      {
+        "name": "2501a.png",
+        "width": 25,
+        "height": 23,
+        "x": 239,
+        "y": 274,
+        "z": 1400
+      },
+      {
+        "name": "2501b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2501.png"
+  },
+  {
+    "code": "2502",
+    "name": "星辰命运铜色战靴",
+    "images": [
+      {
+        "name": "2502a.png",
+        "width": 25,
+        "height": 23,
+        "x": 239,
+        "y": 274,
+        "z": 1400
+      },
+      {
+        "name": "2502b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2502.png"
+  },
+  {
+    "code": "2503",
+    "name": "星辰命运银色战靴",
+    "images": [
+      {
+        "name": "2503a.png",
+        "width": 25,
+        "height": 23,
+        "x": 239,
+        "y": 274,
+        "z": 1400
+      },
+      {
+        "name": "2503b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2503.png"
+  },
+  {
+    "code": "2600",
+    "name": "传奇大镖客棕色长靴",
+    "images": [
+      {
+        "name": "2600a.png",
+        "width": 24,
+        "height": 52,
+        "x": 239,
+        "y": 246,
+        "z": 1400
+      },
+      {
+        "name": "2600b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2600.png"
+  },
+  {
+    "code": "2601",
+    "name": "传奇大镖客红色长靴",
+    "images": [
+      {
+        "name": "2601a.png",
+        "width": 24,
+        "height": 52,
+        "x": 239,
+        "y": 246,
+        "z": 1400
+      },
+      {
+        "name": "2601b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2601.png"
+  },
+  {
+    "code": "2602",
+    "name": "传奇大镖客黑色长靴",
+    "images": [
+      {
+        "name": "2602a.png",
+        "width": 24,
+        "height": 52,
+        "x": 239,
+        "y": 246,
+        "z": 1400
+      },
+      {
+        "name": "2602b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2602.png"
+  },
+  {
+    "code": "2603",
+    "name": "传奇大镖客绿色长靴",
+    "images": [
+      {
+        "name": "2603a.png",
+        "width": 24,
+        "height": 52,
+        "x": 239,
+        "y": 246,
+        "z": 1400
+      },
+      {
+        "name": "2603b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2603.png"
+  },
+  {
+    "code": "2800",
+    "images": [
+      {
+        "name": "2800a.png",
+        "width": 24,
+        "height": 21,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "2800b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2800.png"
+  },
+  {
+    "code": "2801",
+    "name": "丹霞慈云悯心鞋子",
+    "images": [
+      {
+        "name": "2801a.png",
+        "width": 24,
+        "height": 21,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "2801b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2801.png"
+  },
+  {
+    "code": "2803",
+    "name": "星海慈云悯心鞋子",
+    "images": [
+      {
+        "name": "2803a.png",
+        "width": 24,
+        "height": 21,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "2803b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2803.png"
+  },
+  {
+    "code": "2900",
+    "name": "兽人英雄金色信仰战靴",
+    "images": [
+      {
+        "name": "2900a.png",
+        "width": 24,
+        "height": 18,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "2900b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2900.png"
+  },
+  {
+    "code": "2901",
+    "name": "兽人英雄红色信仰战靴",
+    "images": [
+      {
+        "name": "2901a.png",
+        "width": 24,
+        "height": 18,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "2901b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2901.png"
+  },
+  {
+    "code": "2902",
+    "name": "兽人英雄暖色信仰战靴",
+    "images": [
+      {
+        "name": "2902a.png",
+        "width": 24,
+        "height": 18,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "2902b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2902.png"
+  },
+  {
+    "code": "2903",
+    "name": "兽人英雄黑色信仰战靴",
+    "images": [
+      {
+        "name": "2903a.png",
+        "width": 24,
+        "height": 18,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "2903b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/2903.png"
+  },
+  {
+    "code": "3000",
+    "name": "小当家寿喜烧鞋",
+    "images": [
+      {
+        "name": "3000a.png",
+        "width": 25,
+        "height": 12,
+        "x": 239,
+        "y": 288,
+        "z": 1400
+      },
+      {
+        "name": "3000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3000.png"
+  },
+  {
+    "code": "3001",
+    "name": "阿拉德人字木履[B款]",
+    "images": [
+      {
+        "name": "3001a.png",
+        "width": 25,
+        "height": 12,
+        "x": 239,
+        "y": 288,
+        "z": 1400
+      },
+      {
+        "name": "3001b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3001.png"
+  },
+  {
+    "code": "3002",
+    "name": "阿拉德人字木履[C款]",
+    "images": [
+      {
+        "name": "3002a.png",
+        "width": 25,
+        "height": 12,
+        "x": 239,
+        "y": 288,
+        "z": 1400
+      },
+      {
+        "name": "3002b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3002.png"
+  },
+  {
+    "code": "3100",
+    "name": "初音未来长靴",
+    "images": [
+      {
+        "name": "3100a.png",
+        "width": 24,
+        "height": 55,
+        "x": 239,
+        "y": 243,
+        "z": 1400
+      },
+      {
+        "name": "3100b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3100.png"
+  },
+  {
+    "code": "3200",
+    "name": "夜阑羲和浴日鞋子",
+    "images": [
+      {
+        "name": "3200a.png",
+        "width": 25,
+        "height": 18,
+        "x": 239,
+        "y": 280,
+        "z": 1400
+      },
+      {
+        "name": "3200b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3200.png"
+  },
+  {
+    "code": "3202",
+    "name": "拂晓羲和浴日鞋子",
+    "images": [
+      {
+        "name": "3202a.png",
+        "width": 25,
+        "height": 18,
+        "x": 239,
+        "y": 280,
+        "z": 1400
+      },
+      {
+        "name": "3202b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3202.png"
+  },
+  {
+    "code": "3300",
+    "name": "神龙天女天仙子鞋子[A款]",
+    "images": [
+      {
+        "name": "3300a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "3300b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3300.png"
+  },
+  {
+    "code": "3301",
+    "name": "神龙天女天仙子鞋子[B款]",
+    "images": [
+      {
+        "name": "3301a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "3301b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3301.png"
+  },
+  {
+    "code": "3302",
+    "name": "神龙天女天仙子鞋子[C款]",
+    "images": [
+      {
+        "name": "3302a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "3302b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3302.png"
+  },
+  {
+    "code": "3303",
+    "name": "神龙天女天仙子鞋子[D款]",
+    "images": [
+      {
+        "name": "3303a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "3303b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3303.png"
+  },
+  {
+    "code": "3400",
+    "name": "伊西斯蓝色踝饰",
+    "images": [
+      {
+        "name": "3400a.png",
+        "width": 19,
+        "height": 34,
+        "x": 240,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "3400b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3400.png"
+  },
+  {
+    "code": "3401",
+    "name": "伊西斯红色踝饰",
+    "images": [
+      {
+        "name": "3401a.png",
+        "width": 19,
+        "height": 34,
+        "x": 240,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "3401b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3401.png"
+  },
+  {
+    "code": "3402",
+    "name": "伊西斯黑色踝饰",
+    "images": [
+      {
+        "name": "3402a.png",
+        "width": 19,
+        "height": 34,
+        "x": 240,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "3402b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3402.png"
+  },
+  {
+    "code": "3403",
+    "name": "伊西斯褐色踝饰",
+    "images": [
+      {
+        "name": "3403a.png",
+        "width": 19,
+        "height": 34,
+        "x": 240,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "3403b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3403.png"
+  },
+  {
+    "code": "3500",
+    "name": "幻想诗篇蓝色鞋子",
+    "images": [
+      {
+        "name": "3500a.png",
+        "width": 25,
+        "height": 12,
+        "x": 239,
+        "y": 286,
+        "z": 1400
+      },
+      {
+        "name": "3500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3500.png"
+  },
+  {
+    "code": "3501",
+    "name": "幻想诗篇金色鞋子",
+    "images": [
+      {
+        "name": "3501a.png",
+        "width": 25,
+        "height": 12,
+        "x": 239,
+        "y": 286,
+        "z": 1400
+      },
+      {
+        "name": "3501b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3501.png"
+  },
+  {
+    "code": "3502",
+    "name": "幻想诗篇红色鞋子",
+    "images": [
+      {
+        "name": "3502a.png",
+        "width": 25,
+        "height": 12,
+        "x": 239,
+        "y": 286,
+        "z": 1400
+      },
+      {
+        "name": "3502b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3502.png"
+  },
+  {
+    "code": "3503",
+    "name": "幻想诗篇青灰鞋子",
+    "images": [
+      {
+        "name": "3503a.png",
+        "width": 25,
+        "height": 12,
+        "x": 239,
+        "y": 286,
+        "z": 1400
+      },
+      {
+        "name": "3503b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3503.png"
+  },
+  {
+    "code": "3600",
+    "name": "哈林逐光者靴子[A款]",
+    "images": [
+      {
+        "name": "3600a.png",
+        "width": 25,
+        "height": 39,
+        "x": 238,
+        "y": 260,
+        "z": 1400
+      },
+      {
+        "name": "3600b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3600.png"
+  },
+  {
+    "code": "3601",
+    "name": "哈林逐光者靴子[B款]",
+    "images": [
+      {
+        "name": "3601a.png",
+        "width": 25,
+        "height": 39,
+        "x": 238,
+        "y": 260,
+        "z": 1400
+      },
+      {
+        "name": "3601b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3601.png"
+  },
+  {
+    "code": "3602",
+    "name": "哈林逐光者靴子[C款]",
+    "images": [
+      {
+        "name": "3602a.png",
+        "width": 25,
+        "height": 39,
+        "x": 238,
+        "y": 260,
+        "z": 1400
+      },
+      {
+        "name": "3602b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3602.png"
+  },
+  {
+    "code": "3603",
+    "name": "哈林逐光者靴子[D款]",
+    "images": [
+      {
+        "name": "3603a.png",
+        "width": 25,
+        "height": 39,
+        "x": 238,
+        "y": 260,
+        "z": 1400
+      },
+      {
+        "name": "3603b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3603.png"
+  },
+  {
+    "code": "3700",
+    "name": "救世主清平乐长靴[A款]",
+    "images": [
+      {
+        "name": "3700a.png",
+        "width": 24,
+        "height": 40,
+        "x": 239,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "3700b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3700.png"
+  },
+  {
+    "code": "3701",
+    "name": "救世主清平乐长靴[B款]",
+    "images": [
+      {
+        "name": "3701a.png",
+        "width": 24,
+        "height": 40,
+        "x": 239,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "3701b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3701.png"
+  },
+  {
+    "code": "3702",
+    "name": "救世主清平乐长靴[C款]",
+    "images": [
+      {
+        "name": "3702a.png",
+        "width": 24,
+        "height": 40,
+        "x": 239,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "3702b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3702.png"
+  },
+  {
+    "code": "3703",
+    "name": "救世主清平乐长靴[D款]",
+    "images": [
+      {
+        "name": "3703a.png",
+        "width": 24,
+        "height": 40,
+        "x": 239,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "3703b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3703.png"
+  },
+  {
+    "code": "3800",
+    "name": "圣诞欢歌红色短靴",
+    "images": [
+      {
+        "name": "3800a.png",
+        "width": 26,
+        "height": 21,
+        "x": 238,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "3800b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3800.png"
+  },
+  {
+    "code": "3801",
+    "name": "圣诞欢歌黑色短靴",
+    "images": [
+      {
+        "name": "3801a.png",
+        "width": 26,
+        "height": 21,
+        "x": 238,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "3801b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3801.png"
+  },
+  {
+    "code": "3802",
+    "name": "圣诞欢歌粉色短靴",
+    "images": [
+      {
+        "name": "3802a.png",
+        "width": 26,
+        "height": 21,
+        "x": 238,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "3802b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3802.png"
+  },
+  {
+    "code": "3900",
+    "name": "萌动兽语踝靴[A款]",
+    "images": [
+      {
+        "name": "3900a.png",
+        "width": 25,
+        "height": 19,
+        "x": 238,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "3900b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3900.png"
+  },
+  {
+    "code": "3901",
+    "name": "萌动兽语踝靴[B款]",
+    "images": [
+      {
+        "name": "3901a.png",
+        "width": 25,
+        "height": 19,
+        "x": 238,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "3901b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3901.png"
+  },
+  {
+    "code": "3902",
+    "name": "萌动兽语踝靴[C款]",
+    "images": [
+      {
+        "name": "3902a.png",
+        "width": 25,
+        "height": 19,
+        "x": 238,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "3902b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/3902.png"
+  },
+  {
+    "code": "4000",
+    "name": "皇者黑色圣心武魂木屐 (特等)",
+    "images": [
+      {
+        "name": "4000a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "4000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4000.png"
+  },
+  {
+    "code": "4001",
+    "name": "皇者红色圣心武魂木屐 (特等)",
+    "images": [
+      {
+        "name": "4001a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "4001b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4001.png"
+  },
+  {
+    "code": "4002",
+    "name": "皇者棕色圣心武魂木屐 (特等)",
+    "images": [
+      {
+        "name": "4002a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "4002b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4002.png"
+  },
+  {
+    "code": "4100",
+    "name": "曦辉之灵佑银色长靴",
+    "images": [
+      {
+        "name": "4100a.png",
+        "width": 24,
+        "height": 58,
+        "x": 239,
+        "y": 241,
+        "z": 1400
+      },
+      {
+        "name": "4100b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4100.png"
+  },
+  {
+    "code": "4101",
+    "name": "曦辉之灵佑白色长靴",
+    "images": [
+      {
+        "name": "4101a.png",
+        "width": 24,
+        "height": 58,
+        "x": 239,
+        "y": 241,
+        "z": 1400
+      },
+      {
+        "name": "4101b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4101.png"
+  },
+  {
+    "code": "4102",
+    "name": "曦辉之灵佑黑色长靴",
+    "images": [
+      {
+        "name": "4102a.png",
+        "width": 24,
+        "height": 58,
+        "x": 239,
+        "y": 241,
+        "z": 1400
+      },
+      {
+        "name": "4102b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4102.png"
+  },
+  {
+    "code": "4103",
+    "name": "曦辉之灵佑红色长靴",
+    "images": [
+      {
+        "name": "4103a.png",
+        "width": 24,
+        "height": 58,
+        "x": 239,
+        "y": 241,
+        "z": 1400
+      },
+      {
+        "name": "4103b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4103.png"
+  },
+  {
+    "code": "4200",
+    "name": "拉姆的黑色短靴",
+    "images": [
+      {
+        "name": "4200a.png",
+        "width": 24,
+        "height": 12,
+        "x": 239,
+        "y": 285,
+        "z": 1400
+      },
+      {
+        "name": "4200b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4200.png"
+  },
+  {
+    "code": "4300",
+    "name": "金翼飞跃板鞋",
+    "images": [
+      {
+        "name": "4300a.png",
+        "width": 28,
+        "height": 28,
+        "x": 235,
+        "y": 272,
+        "z": 1400
+      },
+      {
+        "name": "4300b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4300.png"
+  },
+  {
+    "code": "4400",
+    "name": "鱼人之跃板鞋(女圣职者)",
+    "images": [
+      {
+        "name": "4400a.png",
+        "width": 27,
+        "height": 25,
+        "x": 236,
+        "y": 275,
+        "z": 1400
+      },
+      {
+        "name": "4400b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4400.png"
+  },
+  {
+    "code": "4401",
+    "name": "人鱼之羽板鞋(女圣职者)",
+    "images": [
+      {
+        "name": "4401b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      },
+      {
+        "name": "4401a.png",
+        "width": 27,
+        "height": 25,
+        "x": 236,
+        "y": 275,
+        "z": 1400
+      }
+    ],
+    "icon": "priest_at/shoes/4401.png"
+  },
+  {
+    "code": "4500",
+    "name": "炎狱裁决者陌上花靴子[A款]",
+    "images": [
+      {
+        "name": "4500a.png",
+        "width": 24,
+        "height": 19,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "4500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4500.png"
+  },
+  {
+    "code": "4501",
+    "name": "炎狱裁决者陌上花靴子[B款]",
+    "images": [
+      {
+        "name": "4501a.png",
+        "width": 24,
+        "height": 19,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "4501b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4501.png"
+  },
+  {
+    "code": "4502",
+    "name": "炎狱裁决者陌上花靴子[C款]",
+    "images": [
+      {
+        "name": "4502a.png",
+        "width": 24,
+        "height": 19,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "4502b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4502.png"
+  },
+  {
+    "code": "4503",
+    "name": "炎狱裁决者陌上花靴子[D款]",
+    "images": [
+      {
+        "name": "4503a.png",
+        "width": 24,
+        "height": 19,
+        "x": 239,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "4503b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4503.png"
+  },
+  {
+    "code": "4600",
+    "name": "炽天使满庭芳鞋子[A款]",
+    "images": [
+      {
+        "name": "4600a.png",
+        "width": 24,
+        "height": 23,
+        "x": 239,
+        "y": 276,
+        "z": 1400
+      },
+      {
+        "name": "4600b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4600.png"
+  },
+  {
+    "code": "4601",
+    "name": "炽天使满庭芳鞋子[B款]",
+    "images": [
+      {
+        "name": "4601a.png",
+        "width": 24,
+        "height": 23,
+        "x": 239,
+        "y": 276,
+        "z": 1400
+      },
+      {
+        "name": "4601b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4601.png"
+  },
+  {
+    "code": "4602",
+    "name": "炽天使满庭芳鞋子[C款]",
+    "images": [
+      {
+        "name": "4602a.png",
+        "width": 24,
+        "height": 23,
+        "x": 239,
+        "y": 276,
+        "z": 1400
+      },
+      {
+        "name": "4602b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4602.png"
+  },
+  {
+    "code": "4603",
+    "name": "炽天使满庭芳鞋子[D款]",
+    "images": [
+      {
+        "name": "4603a.png",
+        "width": 24,
+        "height": 23,
+        "x": 239,
+        "y": 276,
+        "z": 1400
+      },
+      {
+        "name": "4603b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4603.png"
+  },
+  {
+    "code": "4700",
+    "name": "阿拉德冲浪闪亮脚链[A款]",
+    "images": [
+      {
+        "name": "4700a.png",
+        "width": 22,
+        "height": 13,
+        "x": 240,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "4700b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4700.png"
+  },
+  {
+    "code": "4701",
+    "name": "阿拉德冲浪闪亮脚链[B款]",
+    "images": [
+      {
+        "name": "4701a.png",
+        "width": 22,
+        "height": 13,
+        "x": 240,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "4701b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4701.png"
+  },
+  {
+    "code": "4702",
+    "name": "阿拉德冲浪闪亮脚链[C款]",
+    "images": [
+      {
+        "name": "4702a.png",
+        "width": 22,
+        "height": 13,
+        "x": 240,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "4702b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4702.png"
+  },
+  {
+    "code": "4703",
+    "name": "阿拉德冲浪闪亮脚链[D款]",
+    "images": [
+      {
+        "name": "4703a.png",
+        "width": 22,
+        "height": 13,
+        "x": 240,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "4703b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4703.png"
+  },
+  {
+    "code": "4800",
+    "name": "槿花之语黑色鞋子",
+    "images": [
+      {
+        "name": "4800a.png",
+        "width": 24,
+        "height": 22,
+        "x": 239,
+        "y": 276,
+        "z": 1400
+      },
+      {
+        "name": "4800b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4800.png"
+  },
+  {
+    "code": "4801",
+    "name": "槿花之语墨色鞋子",
+    "images": [
+      {
+        "name": "4801a.png",
+        "width": 24,
+        "height": 22,
+        "x": 239,
+        "y": 276,
+        "z": 1400
+      },
+      {
+        "name": "4801b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4801.png"
+  },
+  {
+    "code": "4802",
+    "name": "槿花之语粉色鞋子",
+    "images": [
+      {
+        "name": "4802a.png",
+        "width": 24,
+        "height": 22,
+        "x": 239,
+        "y": 276,
+        "z": 1400
+      },
+      {
+        "name": "4802b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4802.png"
+  },
+  {
+    "code": "4803",
+    "name": "槿花之语蓝色鞋子",
+    "images": [
+      {
+        "name": "4803a.png",
+        "width": 24,
+        "height": 22,
+        "x": 239,
+        "y": 276,
+        "z": 1400
+      },
+      {
+        "name": "4803b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4803.png"
+  },
+  {
+    "code": "4900",
+    "name": "怒海霸主黑色靴子",
+    "images": [
+      {
+        "name": "4900a.png",
+        "width": 24,
+        "height": 41,
+        "x": 239,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "4900b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4900.png"
+  },
+  {
+    "code": "4901",
+    "name": "怒海霸主红色靴子",
+    "images": [
+      {
+        "name": "4901a.png",
+        "width": 24,
+        "height": 41,
+        "x": 239,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "4901b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4901.png"
+  },
+  {
+    "code": "4902",
+    "name": "怒海霸主蓝色靴子",
+    "images": [
+      {
+        "name": "4902a.png",
+        "width": 24,
+        "height": 41,
+        "x": 239,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "4902b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4902.png"
+  },
+  {
+    "code": "4903",
+    "name": "怒海霸主棕色靴子",
+    "images": [
+      {
+        "name": "4903a.png",
+        "width": 24,
+        "height": 41,
+        "x": 239,
+        "y": 258,
+        "z": 1400
+      },
+      {
+        "name": "4903b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/4903.png"
+  },
+  {
+    "code": "5000",
+    "name": "青丘云狐鞋子",
+    "images": [
+      {
+        "name": "5000a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "5000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5000.png"
+  },
+  {
+    "code": "5200",
+    "name": "圣者米歇尔神圣长靴[A款]",
+    "images": [
+      {
+        "name": "5200a.png",
+        "width": 25,
+        "height": 56,
+        "x": 239,
+        "y": 242,
+        "z": 1400
+      },
+      {
+        "name": "5200b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5200.png"
+  },
+  {
+    "code": "5201",
+    "name": "圣者米歇尔神圣长靴[B款]",
+    "images": [
+      {
+        "name": "5201a.png",
+        "width": 25,
+        "height": 56,
+        "x": 239,
+        "y": 242,
+        "z": 1400
+      },
+      {
+        "name": "5201b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5201.png"
+  },
+  {
+    "code": "5202",
+    "name": "圣者米歇尔神圣长靴[C款]",
+    "images": [
+      {
+        "name": "5202a.png",
+        "width": 25,
+        "height": 56,
+        "x": 239,
+        "y": 242,
+        "z": 1400
+      },
+      {
+        "name": "5202b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5202.png"
+  },
+  {
+    "code": "5203",
+    "name": "圣者米歇尔神圣长靴[D款]",
+    "images": [
+      {
+        "name": "5203a.png",
+        "width": 25,
+        "height": 56,
+        "x": 239,
+        "y": 242,
+        "z": 1400
+      },
+      {
+        "name": "5203b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5203.png"
+  },
+  {
+    "code": "5300",
+    "name": "崇高瓦尔基里战靴[A款]",
+    "images": [
+      {
+        "name": "5300a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "5300b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5300.png"
+  },
+  {
+    "code": "5301",
+    "name": "崇高瓦尔基里战靴[B款]",
+    "images": [
+      {
+        "name": "5301a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "5301b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5301.png"
+  },
+  {
+    "code": "5302",
+    "name": "崇高瓦尔基里战靴[C款]",
+    "images": [
+      {
+        "name": "5302a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "5302b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5302.png"
+  },
+  {
+    "code": "5303",
+    "name": "崇高瓦尔基里战靴[D款]",
+    "images": [
+      {
+        "name": "5303a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "5303b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5303.png"
+  },
+  {
+    "code": "5304",
+    "name": "崇高瓦尔基里战靴[E款]",
+    "images": [
+      {
+        "name": "5304a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "5304b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5304.png"
+  },
+  {
+    "code": "5305",
+    "name": "崇高瓦尔基里战靴[F款]",
+    "images": [
+      {
+        "name": "5305a.png",
+        "width": 24,
+        "height": 20,
+        "x": 239,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "5305b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5305.png"
+  },
+  {
+    "code": "5400",
+    "name": "明净忍法帖黑色鞋子",
+    "images": [
+      {
+        "name": "5400a.png",
+        "width": 25,
+        "height": 32,
+        "x": 239,
+        "y": 266,
+        "z": 1400
+      },
+      {
+        "name": "5400b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5400.png"
+  },
+  {
+    "code": "5401",
+    "name": "明净忍法帖红色鞋子",
+    "images": [
+      {
+        "name": "5401a.png",
+        "width": 25,
+        "height": 32,
+        "x": 239,
+        "y": 266,
+        "z": 1400
+      },
+      {
+        "name": "5401b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5401.png"
+  },
+  {
+    "code": "5402",
+    "name": "明净忍法帖粉色鞋子",
+    "images": [
+      {
+        "name": "5402a.png",
+        "width": 25,
+        "height": 32,
+        "x": 239,
+        "y": 266,
+        "z": 1400
+      },
+      {
+        "name": "5402b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5402.png"
+  },
+  {
+    "code": "5500",
+    "name": "欢乐萌动黄喉貂鞋子[A款]",
+    "images": [
+      {
+        "name": "5500a.png",
+        "width": 28,
+        "height": 19,
+        "x": 237,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "5500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5500.png"
+  },
+  {
+    "code": "5501",
+    "name": "欢乐萌动黄喉貂鞋子[B款]",
+    "images": [
+      {
+        "name": "5501a.png",
+        "width": 28,
+        "height": 19,
+        "x": 237,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "5501b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5501.png"
+  },
+  {
+    "code": "5502",
+    "name": "欢乐萌动黄喉貂鞋子[C款]",
+    "images": [
+      {
+        "name": "5502a.png",
+        "width": 28,
+        "height": 19,
+        "x": 237,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "5502b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5502.png"
+  },
+  {
+    "code": "5503",
+    "name": "欢乐萌动黄喉貂鞋子[D款]",
+    "images": [
+      {
+        "name": "5503a.png",
+        "width": 28,
+        "height": 19,
+        "x": 237,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "5503b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5503.png"
+  },
+  {
+    "code": "5800",
+    "name": "梦幻cos-艾丽丝鞋子[A款]",
+    "images": [
+      {
+        "name": "5800a.png",
+        "width": 24,
+        "height": 15,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "5800b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5800.png"
+  },
+  {
+    "code": "5801",
+    "name": "梦幻cos-艾丽丝鞋子[B款]",
+    "images": [
+      {
+        "name": "5801a.png",
+        "width": 24,
+        "height": 15,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "5801b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5801.png"
+  },
+  {
+    "code": "5802",
+    "name": "梦幻cos-艾丽丝鞋子[C款]",
+    "images": [
+      {
+        "name": "5802a.png",
+        "width": 24,
+        "height": 15,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "5802b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5802.png"
+  },
+  {
+    "code": "5803",
+    "name": "梦幻cos-艾丽丝鞋子[D款]",
+    "images": [
+      {
+        "name": "5803a.png",
+        "width": 24,
+        "height": 15,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "5803b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5803.png"
+  },
+  {
+    "code": "5900",
+    "name": "热血学院精致皮鞋[A款]",
+    "images": [
+      {
+        "name": "5900a.png",
+        "width": 26,
+        "height": 15,
+        "x": 237,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "5900b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5900.png"
+  },
+  {
+    "code": "5901",
+    "name": "热血学院精致皮鞋[B款]",
+    "images": [
+      {
+        "name": "5901a.png",
+        "width": 26,
+        "height": 15,
+        "x": 237,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "5901b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5901.png"
+  },
+  {
+    "code": "5902",
+    "name": "热血学院精致皮鞋[C款]",
+    "images": [
+      {
+        "name": "5902a.png",
+        "width": 26,
+        "height": 15,
+        "x": 237,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "5902b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5902.png"
+  },
+  {
+    "code": "5903",
+    "name": "热血学院精致皮鞋[D款]",
+    "images": [
+      {
+        "name": "5903a.png",
+        "width": 26,
+        "height": 15,
+        "x": 237,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "5903b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/5903.png"
+  },
+  {
+    "code": "6000",
+    "name": "蔷薇誓约婚礼婚鞋",
+    "images": [
+      {
+        "name": "6000a.png",
+        "width": 24,
+        "height": 18,
+        "x": 239,
+        "y": 280,
+        "z": 1400
+      },
+      {
+        "name": "6000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6000.png"
+  },
+  {
+    "code": "6100",
+    "name": "混沌圣光祈愿长靴",
+    "images": [
+      {
+        "name": "6100a.png",
+        "width": 25,
+        "height": 50,
+        "x": 239,
+        "y": 249,
+        "z": 1400
+      },
+      {
+        "name": "6100b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6100.png"
+  },
+  {
+    "code": "6101",
+    "name": "光明圣光祈愿长靴",
+    "images": [
+      {
+        "name": "6101a.png",
+        "width": 25,
+        "height": 50,
+        "x": 239,
+        "y": 249,
+        "z": 1400
+      },
+      {
+        "name": "6101b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6101.png"
+  },
+  {
+    "code": "6200",
+    "name": "波塞姆的鞋子[A款]",
+    "images": [
+      {
+        "name": "6200a.png",
+        "width": 24,
+        "height": 15,
+        "x": 239,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "6200b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      },
+      {
+        "name": "6200d.png",
+        "width": 7,
+        "height": 22,
+        "x": 240,
+        "y": 265,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/6200.png"
+  },
+  {
+    "code": "6201",
+    "name": "波塞姆的鞋子[B款]",
+    "images": [
+      {
+        "name": "6201a.png",
+        "width": 24,
+        "height": 15,
+        "x": 239,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "6201b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      },
+      {
+        "name": "6201d.png",
+        "width": 7,
+        "height": 22,
+        "x": 240,
+        "y": 265,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/6201.png"
+  },
+  {
+    "code": "6202",
+    "name": "波塞姆的鞋子[C款]",
+    "images": [
+      {
+        "name": "6202d.png",
+        "width": 7,
+        "height": 22,
+        "x": 240,
+        "y": 265,
+        "z": -1
+      },
+      {
+        "name": "6202a.png",
+        "width": 24,
+        "height": 15,
+        "x": 239,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "6202b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6202.png"
+  },
+  {
+    "code": "6203",
+    "name": "波塞姆的鞋子[D款]",
+    "images": [
+      {
+        "name": "6203a.png",
+        "width": 24,
+        "height": 15,
+        "x": 239,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "6203b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      },
+      {
+        "name": "6203d.png",
+        "width": 7,
+        "height": 22,
+        "x": 240,
+        "y": 265,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/6203.png"
+  },
+  {
+    "code": "6300",
+    "name": "神圣光翼天使鞋子",
+    "images": [
+      {
+        "name": "6300a.png",
+        "width": 25,
+        "height": 51,
+        "x": 239,
+        "y": 248,
+        "z": 1400
+      },
+      {
+        "name": "6300b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      },
+      {
+        "name": "6300g.png",
+        "width": 20,
+        "height": 41,
+        "x": 240,
+        "y": 254,
+        "z": 1450
+      },
+      {
+        "name": "6300h.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1250
+      }
+    ],
+    "icon": "priest_at/shoes/6300.png"
+  },
+  {
+    "code": "6500",
+    "name": "粉色巧克力糖果皮鞋",
+    "images": [
+      {
+        "name": "6500a.png",
+        "width": 25,
+        "height": 15,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "6500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      },
+      {
+        "name": "6500d.png",
+        "width": 21,
+        "height": 43,
+        "x": 240,
+        "y": 248,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/6500.png"
+  },
+  {
+    "code": "6501",
+    "name": "紫色巧克力糖果皮鞋",
+    "images": [
+      {
+        "name": "6501a.png",
+        "width": 25,
+        "height": 15,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "6501b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      },
+      {
+        "name": "6501d.png",
+        "width": 21,
+        "height": 43,
+        "x": 240,
+        "y": 248,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/6501.png"
+  },
+  {
+    "code": "6502",
+    "name": "蓝色巧克力糖果皮鞋",
+    "images": [
+      {
+        "name": "6502a.png",
+        "width": 25,
+        "height": 15,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "6502b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      },
+      {
+        "name": "6502d.png",
+        "width": 21,
+        "height": 43,
+        "x": 240,
+        "y": 248,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/6502.png"
+  },
+  {
+    "code": "6600",
+    "name": "骄阳骑士和煦战靴",
+    "images": [
+      {
+        "name": "6600a.png",
+        "width": 24,
+        "height": 19,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "6600b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6600.png"
+  },
+  {
+    "code": "6601",
+    "name": "银月骑士和煦战靴",
+    "images": [
+      {
+        "name": "6601a.png",
+        "width": 24,
+        "height": 19,
+        "x": 239,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "6601b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6601.png"
+  },
+  {
+    "code": "6700",
+    "name": "兰杜斯真皮长靴[A款]",
+    "images": [
+      {
+        "name": "6700a.png",
+        "width": 24,
+        "height": 28,
+        "x": 239,
+        "y": 271,
+        "z": 1400
+      },
+      {
+        "name": "6700b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6700.png"
+  },
+  {
+    "code": "6701",
+    "name": "兰杜斯真皮长靴[B款]",
+    "images": [
+      {
+        "name": "6701a.png",
+        "width": 24,
+        "height": 28,
+        "x": 239,
+        "y": 271,
+        "z": 1400
+      },
+      {
+        "name": "6701b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6701.png"
+  },
+  {
+    "code": "6702",
+    "name": "兰杜斯真皮长靴[C款]",
+    "images": [
+      {
+        "name": "6702a.png",
+        "width": 24,
+        "height": 28,
+        "x": 239,
+        "y": 271,
+        "z": 1400
+      },
+      {
+        "name": "6702b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6702.png"
+  },
+  {
+    "code": "6703",
+    "name": "兰杜斯真皮长靴[D款]",
+    "images": [
+      {
+        "name": "6703a.png",
+        "width": 24,
+        "height": 28,
+        "x": 239,
+        "y": 271,
+        "z": 1400
+      },
+      {
+        "name": "6703b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6703.png"
+  },
+  {
+    "code": "6800",
+    "name": "可爱奶牛鞋",
+    "images": [
+      {
+        "name": "6800a.png",
+        "width": 31,
+        "height": 19,
+        "x": 236,
+        "y": 280,
+        "z": 1400
+      },
+      {
+        "name": "6800b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6800.png"
+  },
+  {
+    "code": "6900",
+    "name": "凤凰仙官足饰",
+    "images": [
+      {
+        "name": "6900a.png",
+        "width": 22,
+        "height": 13,
+        "x": 239,
+        "y": 282,
+        "z": 1400
+      },
+      {
+        "name": "6900b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/6900.png"
+  },
+  {
+    "code": "7000",
+    "name": "陷入爱河的卡牌女王的鞋子[A款]",
+    "images": [
+      {
+        "name": "7000a.png",
+        "width": 29,
+        "height": 22,
+        "x": 236,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "7000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7000.png"
+  },
+  {
+    "code": "7001",
+    "name": "陷入爱河的卡牌女王的鞋子[B款]",
+    "images": [
+      {
+        "name": "7001a.png",
+        "width": 29,
+        "height": 22,
+        "x": 236,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "7001b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7001.png"
+  },
+  {
+    "code": "7002",
+    "name": "陷入爱河的卡牌女王的鞋子[C款]",
+    "images": [
+      {
+        "name": "7002a.png",
+        "width": 29,
+        "height": 22,
+        "x": 236,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "7002b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7002.png"
+  },
+  {
+    "code": "7200",
+    "images": [
+      {
+        "name": "7200a.png",
+        "width": 26,
+        "height": 48,
+        "x": 238,
+        "y": 250,
+        "z": 1400
+      },
+      {
+        "name": "7200b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7200.png"
+  },
+  {
+    "code": "7201",
+    "images": [
+      {
+        "name": "7201a.png",
+        "width": 26,
+        "height": 48,
+        "x": 238,
+        "y": 250,
+        "z": 1400
+      },
+      {
+        "name": "7201b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7201.png"
+  },
+  {
+    "code": "7202",
+    "images": [
+      {
+        "name": "7202a.png",
+        "width": 26,
+        "height": 48,
+        "x": 238,
+        "y": 250,
+        "z": 1400
+      },
+      {
+        "name": "7202b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7202.png"
+  },
+  {
+    "code": "7203",
+    "images": [
+      {
+        "name": "7203a.png",
+        "width": 26,
+        "height": 48,
+        "x": 238,
+        "y": 250,
+        "z": 1400
+      },
+      {
+        "name": "7203b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7203.png"
+  },
+  {
+    "code": "7204",
+    "images": [
+      {
+        "name": "7204a.png",
+        "width": 26,
+        "height": 48,
+        "x": 238,
+        "y": 250,
+        "z": 1400
+      },
+      {
+        "name": "7204b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7204.png"
+  },
+  {
+    "code": "7300",
+    "name": "涤罪之月黑色战靴",
+    "images": [
+      {
+        "name": "7300a.png",
+        "width": 29,
+        "height": 59,
+        "x": 238,
+        "y": 241,
+        "z": 1400
+      },
+      {
+        "name": "7300b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7300.png"
+  },
+  {
+    "code": "7400",
+    "name": "绚丽晴夏明媚美甲[A款]",
+    "images": [
+      {
+        "name": "7400a.png",
+        "width": 16,
+        "height": 4,
+        "x": 245,
+        "y": 291,
+        "z": 1400
+      }
+    ],
+    "icon": "priest_at/shoes/7400.png"
+  },
+  {
+    "code": "7401",
+    "name": "绚丽晴夏明媚美甲[B款]",
+    "images": [
+      {
+        "name": "7401a.png",
+        "width": 16,
+        "height": 4,
+        "x": 245,
+        "y": 291,
+        "z": 1400
+      }
+    ],
+    "icon": "priest_at/shoes/7401.png"
+  },
+  {
+    "code": "7402",
+    "name": "绚丽晴夏明媚美甲[C款]",
+    "images": [
+      {
+        "name": "7402a.png",
+        "width": 16,
+        "height": 4,
+        "x": 245,
+        "y": 291,
+        "z": 1400
+      }
+    ],
+    "icon": "priest_at/shoes/7402.png"
+  },
+  {
+    "code": "7403",
+    "name": "绚丽晴夏明媚美甲[D款]",
+    "images": [
+      {
+        "name": "7403a.png",
+        "width": 16,
+        "height": 4,
+        "x": 245,
+        "y": 291,
+        "z": 1400
+      }
+    ],
+    "icon": "priest_at/shoes/7403.png"
+  },
+  {
+    "code": "7500",
+    "name": "浪漫年华蝴蝶皮鞋[A款]",
+    "images": [
+      {
+        "name": "7500a.png",
+        "width": 28,
+        "height": 20,
+        "x": 236,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "7500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7500.png"
+  },
+  {
+    "code": "7501",
+    "name": "浪漫年华蝴蝶皮鞋[B款]",
+    "images": [
+      {
+        "name": "7501a.png",
+        "width": 28,
+        "height": 20,
+        "x": 236,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "7501b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7501.png"
+  },
+  {
+    "code": "7502",
+    "name": "浪漫年华蝴蝶皮鞋[C款]",
+    "images": [
+      {
+        "name": "7502a.png",
+        "width": 28,
+        "height": 20,
+        "x": 236,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "7502b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7502.png"
+  },
+  {
+    "code": "7503",
+    "name": "浪漫年华蝴蝶皮鞋[D款]",
+    "images": [
+      {
+        "name": "7503a.png",
+        "width": 28,
+        "height": 20,
+        "x": 236,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "7503b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7503.png"
+  },
+  {
+    "code": "7700",
+    "name": "欧贝斯祈祷之诗鞋子",
+    "images": [
+      {
+        "name": "7700a.png",
+        "width": 25,
+        "height": 22,
+        "x": 239,
+        "y": 277,
+        "z": 1400
+      },
+      {
+        "name": "7700b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7700.png"
+  },
+  {
+    "code": "7800",
+    "name": "露西尔祈祷之诗鞋子",
+    "images": [
+      {
+        "name": "7800a.png",
+        "width": 25,
+        "height": 18,
+        "x": 239,
+        "y": 283,
+        "z": 1400
+      },
+      {
+        "name": "7800b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7800.png"
+  },
+  {
+    "code": "7900",
+    "name": "米歇尔和光同尘足套",
+    "images": [
+      {
+        "name": "7900a.png",
+        "width": 20,
+        "height": 23,
+        "x": 239,
+        "y": 270,
+        "z": 1400
+      },
+      {
+        "name": "7900b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/7900.png"
+  },
+  {
+    "code": "8000",
+    "name": "璀璨光年鞋子[A款]",
+    "images": [
+      {
+        "name": "8000a.png",
+        "width": 29,
+        "height": 25,
+        "x": 235,
+        "y": 274,
+        "z": 1400
+      },
+      {
+        "name": "8000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8000.png"
+  },
+  {
+    "code": "8001",
+    "name": "璀璨光年鞋子[B款]",
+    "images": [
+      {
+        "name": "8001a.png",
+        "width": 29,
+        "height": 25,
+        "x": 235,
+        "y": 274,
+        "z": 1400
+      },
+      {
+        "name": "8001b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8001.png"
+  },
+  {
+    "code": "8002",
+    "name": "璀璨光年鞋子[C款]",
+    "images": [
+      {
+        "name": "8002a.png",
+        "width": 29,
+        "height": 25,
+        "x": 235,
+        "y": 274,
+        "z": 1400
+      },
+      {
+        "name": "8002b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8002.png"
+  },
+  {
+    "code": "8003",
+    "name": "璀璨光年鞋子[D款]",
+    "images": [
+      {
+        "name": "8003a.png",
+        "width": 29,
+        "height": 25,
+        "x": 235,
+        "y": 274,
+        "z": 1400
+      },
+      {
+        "name": "8003b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8003.png"
+  },
+  {
+    "code": "8004",
+    "name": "璀璨光年鞋子[E款]",
+    "images": [
+      {
+        "name": "8004a.png",
+        "width": 29,
+        "height": 25,
+        "x": 235,
+        "y": 274,
+        "z": 1400
+      },
+      {
+        "name": "8004b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8004.png"
+  },
+  {
+    "code": "8200",
+    "name": "神启·圣骑士耀辉鞋子[款式1]",
+    "images": [
+      {
+        "name": "8200d.png",
+        "width": 17,
+        "height": 26,
+        "x": 240,
+        "y": 264,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/8200.png"
+  },
+  {
+    "code": "8201",
+    "name": "神启·圣骑士耀夜鞋子[款式2]",
+    "images": [
+      {
+        "name": "8201d.png",
+        "width": 17,
+        "height": 26,
+        "x": 240,
+        "y": 264,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/8201.png"
+  },
+  {
+    "code": "8202",
+    "name": "神启·圣骑士耀阳鞋子[款式3]",
+    "images": [
+      {
+        "name": "8202d.png",
+        "width": 17,
+        "height": 26,
+        "x": 240,
+        "y": 264,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/8202.png"
+  },
+  {
+    "code": "8203",
+    "name": "神启·圣骑士耀月鞋子[款式4]",
+    "images": [
+      {
+        "name": "8203d.png",
+        "width": 17,
+        "height": 26,
+        "x": 240,
+        "y": 264,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/8203.png"
+  },
+  {
+    "code": "8204",
+    "name": "神启·圣骑士耀启鞋子[银色款]",
+    "images": [
+      {
+        "name": "8204d.png",
+        "width": 17,
+        "height": 26,
+        "x": 240,
+        "y": 264,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/8204.png"
+  },
+  {
+    "code": "8205",
+    "name": "神启·圣骑士耀曦鞋子[金色款]",
+    "images": [
+      {
+        "name": "8205d.png",
+        "width": 17,
+        "height": 26,
+        "x": 240,
+        "y": 264,
+        "z": -1
+      }
+    ],
+    "icon": "priest_at/shoes/8205.png"
+  },
+  {
+    "code": "8300",
+    "name": "神启·诱魔者魅灵皮靴[款式1]",
+    "images": [
+      {
+        "name": "8300a.png",
+        "width": 26,
+        "height": 42,
+        "x": 237,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "8300b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8300.png"
+  },
+  {
+    "code": "8301",
+    "name": "神启·诱魔者魅影皮靴[款式2]",
+    "images": [
+      {
+        "name": "8301a.png",
+        "width": 26,
+        "height": 42,
+        "x": 237,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "8301b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8301.png"
+  },
+  {
+    "code": "8302",
+    "name": "神启·诱魔者魅语皮靴[款式3]",
+    "images": [
+      {
+        "name": "8302a.png",
+        "width": 26,
+        "height": 42,
+        "x": 237,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "8302b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8302.png"
+  },
+  {
+    "code": "8303",
+    "name": "神启·诱魔者魅心皮靴[款式4]",
+    "images": [
+      {
+        "name": "8303a.png",
+        "width": 26,
+        "height": 42,
+        "x": 237,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "8303b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8303.png"
+  },
+  {
+    "code": "8304",
+    "name": "神启·诱魔者魅香皮靴[银色款]",
+    "images": [
+      {
+        "name": "8304a.png",
+        "width": 26,
+        "height": 42,
+        "x": 237,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "8304b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8304.png"
+  },
+  {
+    "code": "8305",
+    "name": "神启·诱魔者魅星皮靴[金色款]",
+    "images": [
+      {
+        "name": "8305a.png",
+        "width": 26,
+        "height": 42,
+        "x": 237,
+        "y": 257,
+        "z": 1400
+      },
+      {
+        "name": "8305b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8305.png"
+  },
+  {
+    "code": "8400",
+    "name": "精灵神官之歌皮鞋[A款]",
+    "images": [
+      {
+        "name": "8400a.png",
+        "width": 24,
+        "height": 27,
+        "x": 239,
+        "y": 272,
+        "z": 1400
+      },
+      {
+        "name": "8400b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8400.png"
+  },
+  {
+    "code": "8401",
+    "name": "精灵神官之歌皮鞋[B款]",
+    "images": [
+      {
+        "name": "8401a.png",
+        "width": 24,
+        "height": 27,
+        "x": 239,
+        "y": 272,
+        "z": 1400
+      },
+      {
+        "name": "8401b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8401.png"
+  },
+  {
+    "code": "8402",
+    "name": "精灵神官之歌皮鞋[C款]",
+    "images": [
+      {
+        "name": "8402a.png",
+        "width": 24,
+        "height": 27,
+        "x": 239,
+        "y": 272,
+        "z": 1400
+      },
+      {
+        "name": "8402b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8402.png"
+  },
+  {
+    "code": "8403",
+    "name": "精灵神官之歌皮鞋[D款]",
+    "images": [
+      {
+        "name": "8403a.png",
+        "width": 24,
+        "height": 27,
+        "x": 239,
+        "y": 272,
+        "z": 1400
+      },
+      {
+        "name": "8403b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8403.png"
+  },
+  {
+    "code": "8404",
+    "name": "精灵神官之歌皮鞋[E款]",
+    "images": [
+      {
+        "name": "8404a.png",
+        "width": 24,
+        "height": 27,
+        "x": 239,
+        "y": 272,
+        "z": 1400
+      },
+      {
+        "name": "8404b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8404.png"
+  },
+  {
+    "code": "8500",
+    "name": "成功人士西装鞋子",
+    "images": [
+      {
+        "name": "8500a.png",
+        "width": 24,
+        "height": 14,
+        "x": 239,
+        "y": 284,
+        "z": 1400
+      },
+      {
+        "name": "8500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8500.png"
+  },
+  {
+    "code": "8700",
+    "name": "金龙之魄长靴[A款]",
+    "images": [
+      {
+        "name": "8700a.png",
+        "width": 25,
+        "height": 31,
+        "x": 239,
+        "y": 268,
+        "z": 1400
+      },
+      {
+        "name": "8700b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8700.png"
+  },
+  {
+    "code": "8701",
+    "name": "金龙之魄长靴[B款]",
+    "images": [
+      {
+        "name": "8701a.png",
+        "width": 25,
+        "height": 31,
+        "x": 239,
+        "y": 268,
+        "z": 1400
+      },
+      {
+        "name": "8701b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8701.png"
+  },
+  {
+    "code": "8702",
+    "name": "金龙之魄长靴[C款]",
+    "images": [
+      {
+        "name": "8702a.png",
+        "width": 25,
+        "height": 31,
+        "x": 239,
+        "y": 268,
+        "z": 1400
+      },
+      {
+        "name": "8702b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8702.png"
+  },
+  {
+    "code": "8703",
+    "name": "金龙之魄长靴[D款]",
+    "images": [
+      {
+        "name": "8703a.png",
+        "width": 25,
+        "height": 31,
+        "x": 239,
+        "y": 268,
+        "z": 1400
+      },
+      {
+        "name": "8703b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8703.png"
+  },
+  {
+    "code": "8800",
+    "name": "云端漫步者鞋子",
+    "images": [
+      {
+        "name": "8800a.png",
+        "width": 28,
+        "height": 21,
+        "x": 238,
+        "y": 279,
+        "z": 1400
+      },
+      {
+        "name": "8800b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8800.png"
+  },
+  {
+    "code": "8900",
+    "images": [
+      {
+        "name": "8900a.png",
+        "width": 29,
+        "height": 21,
+        "x": 237,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "8900b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/8900.png"
+  },
+  {
+    "code": "9000",
+    "name": "神启·巫女龙啸皮鞋[款式1]",
+    "images": [
+      {
+        "name": "9000a.png",
+        "width": 24,
+        "height": 29,
+        "x": 239,
+        "y": 268,
+        "z": 1400
+      },
+      {
+        "name": "9000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9000.png"
+  },
+  {
+    "code": "9001",
+    "name": "神启·巫女龙吟皮鞋[款式2]",
+    "images": [
+      {
+        "name": "9001a.png",
+        "width": 24,
+        "height": 29,
+        "x": 239,
+        "y": 268,
+        "z": 1400
+      },
+      {
+        "name": "9001b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9001.png"
+  },
+  {
+    "code": "9002",
+    "name": "神启·巫女龙舞皮鞋[款式3]",
+    "images": [
+      {
+        "name": "9002a.png",
+        "width": 24,
+        "height": 29,
+        "x": 239,
+        "y": 268,
+        "z": 1400
+      },
+      {
+        "name": "9002b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9002.png"
+  },
+  {
+    "code": "9003",
+    "name": "神启·巫女龙行皮鞋[款式4]",
+    "images": [
+      {
+        "name": "9003a.png",
+        "width": 24,
+        "height": 29,
+        "x": 239,
+        "y": 268,
+        "z": 1400
+      },
+      {
+        "name": "9003b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9003.png"
+  },
+  {
+    "code": "9004",
+    "name": "神启·巫女龙月皮鞋[银色款]",
+    "images": [
+      {
+        "name": "9004a.png",
+        "width": 24,
+        "height": 29,
+        "x": 239,
+        "y": 268,
+        "z": 1400
+      },
+      {
+        "name": "9004b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9004.png"
+  },
+  {
+    "code": "9005",
+    "name": "神启·巫女龙光皮鞋[金色款]",
+    "images": [
+      {
+        "name": "9005a.png",
+        "width": 24,
+        "height": 29,
+        "x": 239,
+        "y": 268,
+        "z": 1400
+      },
+      {
+        "name": "9005b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9005.png"
+  },
+  {
+    "code": "9100",
+    "name": "芳菲恋蝶蝴蝶鞋子[A款]",
+    "images": [
+      {
+        "name": "9100a.png",
+        "width": 26,
+        "height": 20,
+        "x": 237,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "9100b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9100.png"
+  },
+  {
+    "code": "9101",
+    "name": "芳菲恋蝶蝴蝶鞋子[B款]",
+    "images": [
+      {
+        "name": "9101a.png",
+        "width": 26,
+        "height": 20,
+        "x": 237,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "9101b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9101.png"
+  },
+  {
+    "code": "9102",
+    "name": "芳菲恋蝶蝴蝶鞋子[C款]",
+    "images": [
+      {
+        "name": "9102a.png",
+        "width": 26,
+        "height": 20,
+        "x": 237,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "9102b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9102.png"
+  },
+  {
+    "code": "9103",
+    "name": "芳菲恋蝶蝴蝶鞋子[D款]",
+    "images": [
+      {
+        "name": "9103a.png",
+        "width": 26,
+        "height": 20,
+        "x": 237,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "9103b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9103.png"
+  },
+  {
+    "code": "9104",
+    "name": "芳菲恋蝶蝴蝶鞋子[E款]",
+    "images": [
+      {
+        "name": "9104a.png",
+        "width": 26,
+        "height": 20,
+        "x": 237,
+        "y": 278,
+        "z": 1400
+      },
+      {
+        "name": "9104b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9104.png"
+  },
+  {
+    "code": "9200",
+    "name": "神启·异端审判者狱灭战靴[款式1]",
+    "images": [
+      {
+        "name": "9200a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "9200b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9200.png"
+  },
+  {
+    "code": "9201",
+    "name": "神启·异端审判者狱暗战靴[款式2]",
+    "images": [
+      {
+        "name": "9201a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "9201b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9201.png"
+  },
+  {
+    "code": "9202",
+    "name": "神启·异端审判者狱焚战靴[款式3]",
+    "images": [
+      {
+        "name": "9202a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "9202b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9202.png"
+  },
+  {
+    "code": "9203",
+    "name": "神启·异端审判者狱影战靴[款式4]",
+    "images": [
+      {
+        "name": "9203a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "9203b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9203.png"
+  },
+  {
+    "code": "9204",
+    "name": "神启·异端审判者狱陨战靴[银色款]",
+    "images": [
+      {
+        "name": "9204a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "9204b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9204.png"
+  },
+  {
+    "code": "9205",
+    "name": "神启·异端审判者狱魂战靴[金色款]",
+    "images": [
+      {
+        "name": "9205a.png",
+        "width": 25,
+        "height": 17,
+        "x": 239,
+        "y": 281,
+        "z": 1400
+      },
+      {
+        "name": "9205b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1200
+      }
+    ],
+    "icon": "priest_at/shoes/9205.png"
+  }
+]
