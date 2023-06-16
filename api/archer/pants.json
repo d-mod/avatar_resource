@@ -1,0 +1,1082 @@
+[
+  {
+    "code": "0000",
+    "images": [
+      {
+        "name": "0000d.png",
+        "width": 33,
+        "height": 63,
+        "x": 231,
+        "y": 260,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0000.png"
+  },
+  {
+    "code": "0100",
+    "images": [
+      {
+        "name": "0100a.png",
+        "width": 25,
+        "height": 18,
+        "x": 242,
+        "y": 256,
+        "z": 1500
+      },
+      {
+        "name": "0100d.png",
+        "width": 33,
+        "height": 48,
+        "x": 231,
+        "y": 275,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0100.png"
+  },
+  {
+    "code": "0101",
+    "images": [
+      {
+        "name": "0101a.png",
+        "width": 25,
+        "height": 18,
+        "x": 242,
+        "y": 256,
+        "z": 1500
+      },
+      {
+        "name": "0101d.png",
+        "width": 33,
+        "height": 48,
+        "x": 231,
+        "y": 275,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0101.png"
+  },
+  {
+    "code": "0102",
+    "images": [
+      {
+        "name": "0102a.png",
+        "width": 25,
+        "height": 18,
+        "x": 242,
+        "y": 256,
+        "z": 1500
+      },
+      {
+        "name": "0102d.png",
+        "width": 33,
+        "height": 48,
+        "x": 231,
+        "y": 275,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0102.png"
+  },
+  {
+    "code": "0103",
+    "images": [
+      {
+        "name": "0103a.png",
+        "width": 25,
+        "height": 18,
+        "x": 242,
+        "y": 256,
+        "z": 1500
+      },
+      {
+        "name": "0103d.png",
+        "width": 33,
+        "height": 48,
+        "x": 231,
+        "y": 275,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0103.png"
+  },
+  {
+    "code": "0200",
+    "images": [
+      {
+        "name": "0200d.png",
+        "width": 33,
+        "height": 68,
+        "x": 231,
+        "y": 255,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0200.png"
+  },
+  {
+    "code": "0201",
+    "images": [
+      {
+        "name": "0201d.png",
+        "width": 33,
+        "height": 68,
+        "x": 231,
+        "y": 255,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0201.png"
+  },
+  {
+    "code": "0202",
+    "images": [
+      {
+        "name": "0202d.png",
+        "width": 33,
+        "height": 68,
+        "x": 231,
+        "y": 255,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0202.png"
+  },
+  {
+    "code": "0203",
+    "images": [
+      {
+        "name": "0203d.png",
+        "width": 33,
+        "height": 68,
+        "x": 231,
+        "y": 255,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0203.png"
+  },
+  {
+    "code": "0300",
+    "images": [
+      {
+        "name": "0300d.png",
+        "width": 23,
+        "height": 64,
+        "x": 241,
+        "y": 257,
+        "z": 1150
+      },
+      {
+        "name": "0300h.png",
+        "width": 33,
+        "height": 53,
+        "x": 231,
+        "y": 270,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0300.png"
+  },
+  {
+    "code": "0301",
+    "images": [
+      {
+        "name": "0301d.png",
+        "width": 23,
+        "height": 64,
+        "x": 241,
+        "y": 257,
+        "z": 1150
+      },
+      {
+        "name": "0301h.png",
+        "width": 33,
+        "height": 53,
+        "x": 231,
+        "y": 270,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0301.png"
+  },
+  {
+    "code": "0302",
+    "images": [
+      {
+        "name": "0302d.png",
+        "width": 23,
+        "height": 64,
+        "x": 241,
+        "y": 257,
+        "z": 1150
+      },
+      {
+        "name": "0302h.png",
+        "width": 33,
+        "height": 53,
+        "x": 231,
+        "y": 270,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0302.png"
+  },
+  {
+    "code": "0303",
+    "images": [
+      {
+        "name": "0303d.png",
+        "width": 23,
+        "height": 64,
+        "x": 241,
+        "y": 257,
+        "z": 1150
+      },
+      {
+        "name": "0303h.png",
+        "width": 33,
+        "height": 53,
+        "x": 231,
+        "y": 270,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0303.png"
+  },
+  {
+    "code": "0304",
+    "images": [
+      {
+        "name": "0304d.png",
+        "width": 23,
+        "height": 64,
+        "x": 241,
+        "y": 257,
+        "z": 1150
+      },
+      {
+        "name": "0304h.png",
+        "width": 33,
+        "height": 53,
+        "x": 231,
+        "y": 270,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0304.png"
+  },
+  {
+    "code": "0305",
+    "images": [
+      {
+        "name": "0305d.png",
+        "width": 23,
+        "height": 64,
+        "x": 241,
+        "y": 257,
+        "z": 1150
+      },
+      {
+        "name": "0305h.png",
+        "width": 33,
+        "height": 53,
+        "x": 231,
+        "y": 270,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0305.png"
+  },
+  {
+    "code": "0400",
+    "images": [
+      {
+        "name": "0400a.png",
+        "width": 68,
+        "height": 73,
+        "x": 215,
+        "y": 255,
+        "z": 1500
+      },
+      {
+        "name": "0400d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0400.png"
+  },
+  {
+    "code": "0401",
+    "images": [
+      {
+        "name": "0401a.png",
+        "width": 68,
+        "height": 73,
+        "x": 215,
+        "y": 255,
+        "z": 1500
+      },
+      {
+        "name": "0401d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0401.png"
+  },
+  {
+    "code": "0402",
+    "images": [
+      {
+        "name": "0402a.png",
+        "width": 68,
+        "height": 73,
+        "x": 215,
+        "y": 255,
+        "z": 1500
+      },
+      {
+        "name": "0402d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0402.png"
+  },
+  {
+    "code": "0403",
+    "images": [
+      {
+        "name": "0403a.png",
+        "width": 68,
+        "height": 73,
+        "x": 215,
+        "y": 255,
+        "z": 1500
+      },
+      {
+        "name": "0403d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0403.png"
+  },
+  {
+    "code": "0500",
+    "images": [
+      {
+        "name": "0500a.png",
+        "width": 28,
+        "height": 26,
+        "x": 240,
+        "y": 256,
+        "z": 1500
+      },
+      {
+        "name": "0500d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0500.png"
+  },
+  {
+    "code": "0501",
+    "images": [
+      {
+        "name": "0501a.png",
+        "width": 28,
+        "height": 26,
+        "x": 240,
+        "y": 256,
+        "z": 1500
+      },
+      {
+        "name": "0501d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/0501.png"
+  },
+  {
+    "code": "0600",
+    "images": [
+      {
+        "name": "0600a.png",
+        "width": 20,
+        "height": 17,
+        "x": 244,
+        "y": 257,
+        "z": 1500
+      },
+      {
+        "name": "0600b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1300
+      }
+    ],
+    "icon": "archer/pants/0600.png"
+  },
+  {
+    "code": "0601",
+    "images": [
+      {
+        "name": "0601a.png",
+        "width": 20,
+        "height": 17,
+        "x": 244,
+        "y": 257,
+        "z": 1500
+      },
+      {
+        "name": "0601b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1300
+      }
+    ],
+    "icon": "archer/pants/0601.png"
+  },
+  {
+    "code": "0602",
+    "images": [
+      {
+        "name": "0602a.png",
+        "width": 20,
+        "height": 17,
+        "x": 244,
+        "y": 257,
+        "z": 1500
+      },
+      {
+        "name": "0602b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1300
+      }
+    ],
+    "icon": "archer/pants/0602.png"
+  },
+  {
+    "code": "0603",
+    "images": [
+      {
+        "name": "0603a.png",
+        "width": 20,
+        "height": 17,
+        "x": 244,
+        "y": 257,
+        "z": 1500
+      },
+      {
+        "name": "0603b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1300
+      }
+    ],
+    "icon": "archer/pants/0603.png"
+  },
+  {
+    "code": "0700",
+    "images": [
+      {
+        "name": "0700a.png",
+        "width": 25,
+        "height": 22,
+        "x": 241,
+        "y": 254,
+        "z": 1500
+      },
+      {
+        "name": "0700b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1300
+      },
+      {
+        "name": "0700h.png",
+        "width": 33,
+        "height": 49,
+        "x": 231,
+        "y": 274,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0700.png"
+  },
+  {
+    "code": "0701",
+    "images": [
+      {
+        "name": "0701a.png",
+        "width": 25,
+        "height": 22,
+        "x": 241,
+        "y": 254,
+        "z": 1500
+      },
+      {
+        "name": "0701b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1300
+      },
+      {
+        "name": "0701h.png",
+        "width": 33,
+        "height": 49,
+        "x": 231,
+        "y": 274,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0701.png"
+  },
+  {
+    "code": "0702",
+    "images": [
+      {
+        "name": "0702a.png",
+        "width": 25,
+        "height": 22,
+        "x": 241,
+        "y": 254,
+        "z": 1500
+      },
+      {
+        "name": "0702b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1300
+      },
+      {
+        "name": "0702h.png",
+        "width": 33,
+        "height": 49,
+        "x": 231,
+        "y": 274,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0702.png"
+  },
+  {
+    "code": "0703",
+    "images": [
+      {
+        "name": "0703a.png",
+        "width": 25,
+        "height": 22,
+        "x": 241,
+        "y": 254,
+        "z": 1500
+      },
+      {
+        "name": "0703b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 1300
+      },
+      {
+        "name": "0703h.png",
+        "width": 33,
+        "height": 49,
+        "x": 231,
+        "y": 274,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0703.png"
+  },
+  {
+    "code": "0800",
+    "images": [
+      {
+        "name": "0800a.png",
+        "width": 46,
+        "height": 39,
+        "x": 228,
+        "y": 257,
+        "z": 1500
+      },
+      {
+        "name": "0800d.png",
+        "width": 14,
+        "height": 4,
+        "x": 250,
+        "y": 278,
+        "z": 1150
+      },
+      {
+        "name": "0800g.png",
+        "width": 63,
+        "height": 40,
+        "x": 215,
+        "y": 280,
+        "z": 1501
+      },
+      {
+        "name": "0800h.png",
+        "width": 38,
+        "height": 45,
+        "x": 231,
+        "y": 278,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0800.png"
+  },
+  {
+    "code": "0801",
+    "images": [
+      {
+        "name": "0801a.png",
+        "width": 46,
+        "height": 39,
+        "x": 228,
+        "y": 257,
+        "z": 1500
+      },
+      {
+        "name": "0801d.png",
+        "width": 14,
+        "height": 4,
+        "x": 250,
+        "y": 278,
+        "z": 1150
+      },
+      {
+        "name": "0801g.png",
+        "width": 63,
+        "height": 40,
+        "x": 215,
+        "y": 280,
+        "z": 1501
+      },
+      {
+        "name": "0801h.png",
+        "width": 38,
+        "height": 45,
+        "x": 231,
+        "y": 278,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0801.png"
+  },
+  {
+    "code": "0802",
+    "images": [
+      {
+        "name": "0802a.png",
+        "width": 46,
+        "height": 39,
+        "x": 228,
+        "y": 257,
+        "z": 1500
+      },
+      {
+        "name": "0802d.png",
+        "width": 14,
+        "height": 4,
+        "x": 250,
+        "y": 278,
+        "z": 1150
+      },
+      {
+        "name": "0802g.png",
+        "width": 63,
+        "height": 40,
+        "x": 215,
+        "y": 280,
+        "z": 1501
+      },
+      {
+        "name": "0802h.png",
+        "width": 38,
+        "height": 45,
+        "x": 231,
+        "y": 278,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/0802.png"
+  },
+  {
+    "code": "1200",
+    "images": [
+      {
+        "name": "1200d.png",
+        "width": 22,
+        "height": 28,
+        "x": 242,
+        "y": 255,
+        "z": 1150
+      },
+      {
+        "name": "1200h.png",
+        "width": 33,
+        "height": 42,
+        "x": 231,
+        "y": 281,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1200.png"
+  },
+  {
+    "code": "1201",
+    "images": [
+      {
+        "name": "1201d.png",
+        "width": 22,
+        "height": 28,
+        "x": 242,
+        "y": 255,
+        "z": 1150
+      },
+      {
+        "name": "1201h.png",
+        "width": 33,
+        "height": 42,
+        "x": 231,
+        "y": 281,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1201.png"
+  },
+  {
+    "code": "1202",
+    "images": [
+      {
+        "name": "1202d.png",
+        "width": 22,
+        "height": 28,
+        "x": 242,
+        "y": 255,
+        "z": 1150
+      },
+      {
+        "name": "1202h.png",
+        "width": 33,
+        "height": 42,
+        "x": 231,
+        "y": 281,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1202.png"
+  },
+  {
+    "code": "1203",
+    "images": [
+      {
+        "name": "1203d.png",
+        "width": 22,
+        "height": 28,
+        "x": 242,
+        "y": 255,
+        "z": 1150
+      },
+      {
+        "name": "1203h.png",
+        "width": 33,
+        "height": 42,
+        "x": 231,
+        "y": 281,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1203.png"
+  },
+  {
+    "code": "1204",
+    "images": [
+      {
+        "name": "1204d.png",
+        "width": 22,
+        "height": 28,
+        "x": 242,
+        "y": 255,
+        "z": 1150
+      },
+      {
+        "name": "1204h.png",
+        "width": 33,
+        "height": 42,
+        "x": 231,
+        "y": 281,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1204.png"
+  },
+  {
+    "code": "1205",
+    "images": [
+      {
+        "name": "1205d.png",
+        "width": 22,
+        "height": 28,
+        "x": 242,
+        "y": 255,
+        "z": 1150
+      },
+      {
+        "name": "1205h.png",
+        "width": 33,
+        "height": 42,
+        "x": 231,
+        "y": 281,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1205.png"
+  },
+  {
+    "code": "1206",
+    "images": [
+      {
+        "name": "1206d.png",
+        "width": 22,
+        "height": 28,
+        "x": 242,
+        "y": 255,
+        "z": 1150
+      },
+      {
+        "name": "1206h.png",
+        "width": 33,
+        "height": 42,
+        "x": 231,
+        "y": 281,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1206.png"
+  },
+  {
+    "code": "1300",
+    "images": [
+      {
+        "name": "1300a.png",
+        "width": 22,
+        "height": 14,
+        "x": 243,
+        "y": 257,
+        "z": 1500
+      },
+      {
+        "name": "1300d.png",
+        "width": 33,
+        "height": 55,
+        "x": 231,
+        "y": 268,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/1300.png"
+  },
+  {
+    "code": "1400",
+    "images": [
+      {
+        "name": "1400a.png",
+        "width": 23,
+        "height": 20,
+        "x": 242,
+        "y": 253,
+        "z": 1500
+      },
+      {
+        "name": "1400d.png",
+        "width": 33,
+        "height": 49,
+        "x": 231,
+        "y": 274,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/1400.png"
+  },
+  {
+    "code": "1500",
+    "images": [
+      {
+        "name": "1500d.png",
+        "width": 31,
+        "height": 58,
+        "x": 233,
+        "y": 263,
+        "z": 1150
+      },
+      {
+        "name": "1500h.png",
+        "width": 33,
+        "height": 38,
+        "x": 231,
+        "y": 285,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1500.png"
+  },
+  {
+    "code": "1501",
+    "images": [
+      {
+        "name": "1501d.png",
+        "width": 31,
+        "height": 58,
+        "x": 233,
+        "y": 263,
+        "z": 1150
+      },
+      {
+        "name": "1501h.png",
+        "width": 33,
+        "height": 38,
+        "x": 231,
+        "y": 285,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1501.png"
+  },
+  {
+    "code": "1502",
+    "images": [
+      {
+        "name": "1502d.png",
+        "width": 31,
+        "height": 58,
+        "x": 233,
+        "y": 263,
+        "z": 1150
+      },
+      {
+        "name": "1502h.png",
+        "width": 33,
+        "height": 38,
+        "x": 231,
+        "y": 285,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1502.png"
+  },
+  {
+    "code": "1503",
+    "images": [
+      {
+        "name": "1503d.png",
+        "width": 31,
+        "height": 58,
+        "x": 233,
+        "y": 263,
+        "z": 1150
+      },
+      {
+        "name": "1503h.png",
+        "width": 33,
+        "height": 38,
+        "x": 231,
+        "y": 285,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1503.png"
+  },
+  {
+    "code": "1504",
+    "images": [
+      {
+        "name": "1504d.png",
+        "width": 31,
+        "height": 58,
+        "x": 233,
+        "y": 263,
+        "z": 1150
+      },
+      {
+        "name": "1504h.png",
+        "width": 33,
+        "height": 38,
+        "x": 231,
+        "y": 285,
+        "z": 1151
+      }
+    ],
+    "icon": "archer/pants/1504.png"
+  },
+  {
+    "code": "1700",
+    "images": [
+      {
+        "name": "1700d.png",
+        "width": 33,
+        "height": 63,
+        "x": 231,
+        "y": 260,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/1700.png"
+  },
+  {
+    "code": "2200",
+    "images": [
+      {
+        "name": "2200d.png",
+        "width": 33,
+        "height": 63,
+        "x": 231,
+        "y": 260,
+        "z": 1150
+      }
+    ],
+    "icon": "archer/pants/2200.png"
+  }
+]

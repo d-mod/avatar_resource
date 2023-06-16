@@ -1,0 +1,2422 @@
+[
+  {
+    "code": "0000",
+    "images": [
+      {
+        "name": "0000a.png",
+        "width": 28,
+        "height": 29,
+        "x": 236,
+        "y": 241,
+        "z": 1800
+      },
+      {
+        "name": "0000b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0000c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0000d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0000x.png",
+        "width": 12,
+        "height": 10,
+        "x": 238,
+        "y": 255,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0000.png"
+  },
+  {
+    "code": "0100",
+    "images": [
+      {
+        "name": "0100a.png",
+        "width": 23,
+        "height": 16,
+        "x": 239,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "0100b.png",
+        "width": 4,
+        "height": 10,
+        "x": 260,
+        "y": 253,
+        "z": 900
+      },
+      {
+        "name": "0100c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0100d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0100x.png",
+        "width": 16,
+        "height": 16,
+        "x": 235,
+        "y": 249,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0100.png"
+  },
+  {
+    "code": "0101",
+    "images": [
+      {
+        "name": "0101a.png",
+        "width": 23,
+        "height": 16,
+        "x": 239,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "0101b.png",
+        "width": 4,
+        "height": 10,
+        "x": 260,
+        "y": 253,
+        "z": 900
+      },
+      {
+        "name": "0101c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0101d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0101x.png",
+        "width": 16,
+        "height": 16,
+        "x": 235,
+        "y": 249,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0101.png"
+  },
+  {
+    "code": "0102",
+    "images": [
+      {
+        "name": "0102a.png",
+        "width": 23,
+        "height": 16,
+        "x": 239,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "0102b.png",
+        "width": 4,
+        "height": 10,
+        "x": 260,
+        "y": 253,
+        "z": 900
+      },
+      {
+        "name": "0102c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0102d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0102x.png",
+        "width": 16,
+        "height": 16,
+        "x": 235,
+        "y": 249,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0102.png"
+  },
+  {
+    "code": "0103",
+    "images": [
+      {
+        "name": "0103a.png",
+        "width": 23,
+        "height": 16,
+        "x": 239,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "0103b.png",
+        "width": 4,
+        "height": 10,
+        "x": 260,
+        "y": 253,
+        "z": 900
+      },
+      {
+        "name": "0103c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0103d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0103x.png",
+        "width": 16,
+        "height": 16,
+        "x": 235,
+        "y": 249,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0103.png"
+  },
+  {
+    "code": "0200",
+    "images": [
+      {
+        "name": "0200a.png",
+        "width": 12,
+        "height": 25,
+        "x": 250,
+        "y": 244,
+        "z": 1800
+      },
+      {
+        "name": "0200b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0200c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0200d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0200x.png",
+        "width": 27,
+        "height": 27,
+        "x": 235,
+        "y": 239,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0200.png"
+  },
+  {
+    "code": "0201",
+    "images": [
+      {
+        "name": "0201a.png",
+        "width": 12,
+        "height": 25,
+        "x": 250,
+        "y": 244,
+        "z": 1800
+      },
+      {
+        "name": "0201b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0201c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0201d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0201x.png",
+        "width": 27,
+        "height": 27,
+        "x": 235,
+        "y": 239,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0201.png"
+  },
+  {
+    "code": "0202",
+    "images": [
+      {
+        "name": "0202a.png",
+        "width": 12,
+        "height": 25,
+        "x": 250,
+        "y": 244,
+        "z": 1800
+      },
+      {
+        "name": "0202b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0202c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0202d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0202x.png",
+        "width": 27,
+        "height": 27,
+        "x": 235,
+        "y": 239,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0202.png"
+  },
+  {
+    "code": "0203",
+    "images": [
+      {
+        "name": "0203a.png",
+        "width": 12,
+        "height": 25,
+        "x": 250,
+        "y": 244,
+        "z": 1800
+      },
+      {
+        "name": "0203b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0203c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0203d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0203x.png",
+        "width": 27,
+        "height": 27,
+        "x": 235,
+        "y": 239,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0203.png"
+  },
+  {
+    "code": "0300",
+    "images": [
+      {
+        "name": "0300a.png",
+        "width": 16,
+        "height": 19,
+        "x": 246,
+        "y": 242,
+        "z": 1800
+      },
+      {
+        "name": "0300b.png",
+        "width": 18,
+        "height": 42,
+        "x": 263,
+        "y": 265,
+        "z": 900
+      },
+      {
+        "name": "0300cg.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0300dh.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0300g.png",
+        "width": 6,
+        "height": 13,
+        "x": 259,
+        "y": 243,
+        "z": 1850
+      },
+      {
+        "name": "0300h.png",
+        "width": 48,
+        "height": 62,
+        "x": 225,
+        "y": 256,
+        "z": 925
+      },
+      {
+        "name": "0300x.png",
+        "width": 39,
+        "height": 58,
+        "x": 213,
+        "y": 257,
+        "z": -1
+      },
+      {
+        "name": "0300xg.png",
+        "width": 29,
+        "height": 63,
+        "x": 223,
+        "y": 244,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0300.png"
+  },
+  {
+    "code": "0301",
+    "images": [
+      {
+        "name": "0301a.png",
+        "width": 16,
+        "height": 19,
+        "x": 246,
+        "y": 242,
+        "z": 1800
+      },
+      {
+        "name": "0301b.png",
+        "width": 18,
+        "height": 42,
+        "x": 263,
+        "y": 265,
+        "z": 900
+      },
+      {
+        "name": "0301cg.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0301dh.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0301g.png",
+        "width": 6,
+        "height": 13,
+        "x": 259,
+        "y": 243,
+        "z": 1850
+      },
+      {
+        "name": "0301h.png",
+        "width": 48,
+        "height": 62,
+        "x": 225,
+        "y": 256,
+        "z": 925
+      },
+      {
+        "name": "0301x.png",
+        "width": 39,
+        "height": 58,
+        "x": 213,
+        "y": 257,
+        "z": -1
+      },
+      {
+        "name": "0301xg.png",
+        "width": 29,
+        "height": 63,
+        "x": 223,
+        "y": 244,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0301.png"
+  },
+  {
+    "code": "0302",
+    "images": [
+      {
+        "name": "0302a.png",
+        "width": 16,
+        "height": 19,
+        "x": 246,
+        "y": 242,
+        "z": 1800
+      },
+      {
+        "name": "0302b.png",
+        "width": 18,
+        "height": 42,
+        "x": 263,
+        "y": 265,
+        "z": 900
+      },
+      {
+        "name": "0302cg.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0302dh.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0302g.png",
+        "width": 6,
+        "height": 13,
+        "x": 259,
+        "y": 243,
+        "z": 1850
+      },
+      {
+        "name": "0302h.png",
+        "width": 48,
+        "height": 62,
+        "x": 225,
+        "y": 256,
+        "z": 925
+      },
+      {
+        "name": "0302x.png",
+        "width": 39,
+        "height": 58,
+        "x": 213,
+        "y": 257,
+        "z": -1
+      },
+      {
+        "name": "0302xg.png",
+        "width": 29,
+        "height": 63,
+        "x": 223,
+        "y": 244,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0302.png"
+  },
+  {
+    "code": "0303",
+    "images": [
+      {
+        "name": "0303a.png",
+        "width": 16,
+        "height": 19,
+        "x": 246,
+        "y": 242,
+        "z": 1800
+      },
+      {
+        "name": "0303b.png",
+        "width": 18,
+        "height": 42,
+        "x": 263,
+        "y": 265,
+        "z": 900
+      },
+      {
+        "name": "0303cg.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0303dh.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0303g.png",
+        "width": 6,
+        "height": 13,
+        "x": 259,
+        "y": 243,
+        "z": 1850
+      },
+      {
+        "name": "0303h.png",
+        "width": 48,
+        "height": 62,
+        "x": 225,
+        "y": 256,
+        "z": 925
+      },
+      {
+        "name": "0303x.png",
+        "width": 39,
+        "height": 58,
+        "x": 213,
+        "y": 257,
+        "z": -1
+      },
+      {
+        "name": "0303xg.png",
+        "width": 29,
+        "height": 63,
+        "x": 223,
+        "y": 244,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0303.png"
+  },
+  {
+    "code": "0304",
+    "images": [
+      {
+        "name": "0304a.png",
+        "width": 16,
+        "height": 19,
+        "x": 246,
+        "y": 242,
+        "z": 1800
+      },
+      {
+        "name": "0304b.png",
+        "width": 18,
+        "height": 42,
+        "x": 263,
+        "y": 265,
+        "z": 900
+      },
+      {
+        "name": "0304cg.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0304dh.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0304g.png",
+        "width": 6,
+        "height": 13,
+        "x": 259,
+        "y": 243,
+        "z": 1850
+      },
+      {
+        "name": "0304h.png",
+        "width": 48,
+        "height": 62,
+        "x": 225,
+        "y": 256,
+        "z": 925
+      },
+      {
+        "name": "0304x.png",
+        "width": 39,
+        "height": 58,
+        "x": 213,
+        "y": 257,
+        "z": -1
+      },
+      {
+        "name": "0304xg.png",
+        "width": 29,
+        "height": 63,
+        "x": 223,
+        "y": 244,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0304.png"
+  },
+  {
+    "code": "0305",
+    "images": [
+      {
+        "name": "0305a.png",
+        "width": 16,
+        "height": 19,
+        "x": 246,
+        "y": 242,
+        "z": 1800
+      },
+      {
+        "name": "0305b.png",
+        "width": 18,
+        "height": 42,
+        "x": 263,
+        "y": 265,
+        "z": 900
+      },
+      {
+        "name": "0305cg.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0305dh.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": -1
+      },
+      {
+        "name": "0305g.png",
+        "width": 6,
+        "height": 13,
+        "x": 259,
+        "y": 243,
+        "z": 1850
+      },
+      {
+        "name": "0305h.png",
+        "width": 48,
+        "height": 62,
+        "x": 225,
+        "y": 256,
+        "z": 925
+      },
+      {
+        "name": "0305x.png",
+        "width": 39,
+        "height": 58,
+        "x": 213,
+        "y": 257,
+        "z": -1
+      },
+      {
+        "name": "0305xg.png",
+        "width": 29,
+        "height": 63,
+        "x": 223,
+        "y": 244,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0305.png"
+  },
+  {
+    "code": "0400",
+    "images": [
+      {
+        "name": "0400a.png",
+        "width": 39,
+        "height": 36,
+        "x": 234,
+        "y": 245,
+        "z": 1800
+      },
+      {
+        "name": "0400b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0400c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0400d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0400x.png",
+        "width": 13,
+        "height": 13,
+        "x": 236,
+        "y": 254,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0400.png"
+  },
+  {
+    "code": "0401",
+    "images": [
+      {
+        "name": "0401a.png",
+        "width": 39,
+        "height": 36,
+        "x": 234,
+        "y": 245,
+        "z": 1800
+      },
+      {
+        "name": "0401b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0401c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0401d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0401x.png",
+        "width": 13,
+        "height": 13,
+        "x": 236,
+        "y": 254,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0401.png"
+  },
+  {
+    "code": "0402",
+    "images": [
+      {
+        "name": "0402a.png",
+        "width": 39,
+        "height": 36,
+        "x": 234,
+        "y": 245,
+        "z": 1800
+      },
+      {
+        "name": "0402b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0402c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0402d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0402x.png",
+        "width": 13,
+        "height": 13,
+        "x": 236,
+        "y": 254,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0402.png"
+  },
+  {
+    "code": "0403",
+    "images": [
+      {
+        "name": "0403a.png",
+        "width": 39,
+        "height": 36,
+        "x": 234,
+        "y": 245,
+        "z": 1800
+      },
+      {
+        "name": "0403b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0403c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0403d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0403x.png",
+        "width": 13,
+        "height": 13,
+        "x": 236,
+        "y": 254,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0403.png"
+  },
+  {
+    "code": "0500",
+    "images": [
+      {
+        "name": "0500a.png",
+        "width": 25,
+        "height": 22,
+        "x": 237,
+        "y": 239,
+        "z": 1800
+      },
+      {
+        "name": "0500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0500c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0500d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0500x.png",
+        "width": 12,
+        "height": 11,
+        "x": 236,
+        "y": 254,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0500.png"
+  },
+  {
+    "code": "0501",
+    "images": [
+      {
+        "name": "0501a.png",
+        "width": 25,
+        "height": 22,
+        "x": 237,
+        "y": 239,
+        "z": 1800
+      },
+      {
+        "name": "0501b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0501c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0501d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0501x.png",
+        "width": 12,
+        "height": 11,
+        "x": 236,
+        "y": 254,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0501.png"
+  },
+  {
+    "code": "0600",
+    "images": [
+      {
+        "name": "0600a.png",
+        "width": 25,
+        "height": 19,
+        "x": 237,
+        "y": 242,
+        "z": 1800
+      },
+      {
+        "name": "0600b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0600c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0600d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0600x.png",
+        "width": 11,
+        "height": 12,
+        "x": 236,
+        "y": 252,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0600.png"
+  },
+  {
+    "code": "0601",
+    "images": [
+      {
+        "name": "0601a.png",
+        "width": 25,
+        "height": 19,
+        "x": 237,
+        "y": 242,
+        "z": 1800
+      },
+      {
+        "name": "0601b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0601c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0601d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0601x.png",
+        "width": 11,
+        "height": 12,
+        "x": 236,
+        "y": 252,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0601.png"
+  },
+  {
+    "code": "0602",
+    "images": [
+      {
+        "name": "0602a.png",
+        "width": 25,
+        "height": 19,
+        "x": 237,
+        "y": 242,
+        "z": 1800
+      },
+      {
+        "name": "0602b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0602c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0602d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0602x.png",
+        "width": 11,
+        "height": 12,
+        "x": 236,
+        "y": 252,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0602.png"
+  },
+  {
+    "code": "0603",
+    "images": [
+      {
+        "name": "0603a.png",
+        "width": 25,
+        "height": 19,
+        "x": 237,
+        "y": 242,
+        "z": 1800
+      },
+      {
+        "name": "0603b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "0603c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0603d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0603x.png",
+        "width": 11,
+        "height": 12,
+        "x": 236,
+        "y": 252,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0603.png"
+  },
+  {
+    "code": "0700",
+    "images": [
+      {
+        "name": "0700a.png",
+        "width": 24,
+        "height": 11,
+        "x": 238,
+        "y": 241,
+        "z": 1800
+      },
+      {
+        "name": "0700b.png",
+        "width": 13,
+        "height": 12,
+        "x": 249,
+        "y": 252,
+        "z": 900
+      },
+      {
+        "name": "0700c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0700d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0700x.png",
+        "width": 11,
+        "height": 14,
+        "x": 236,
+        "y": 252,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0700.png"
+  },
+  {
+    "code": "0701",
+    "images": [
+      {
+        "name": "0701a.png",
+        "width": 24,
+        "height": 11,
+        "x": 238,
+        "y": 241,
+        "z": 1800
+      },
+      {
+        "name": "0701b.png",
+        "width": 13,
+        "height": 12,
+        "x": 249,
+        "y": 252,
+        "z": 900
+      },
+      {
+        "name": "0701c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0701d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0701x.png",
+        "width": 11,
+        "height": 14,
+        "x": 236,
+        "y": 252,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0701.png"
+  },
+  {
+    "code": "0702",
+    "images": [
+      {
+        "name": "0702a.png",
+        "width": 24,
+        "height": 11,
+        "x": 238,
+        "y": 241,
+        "z": 1800
+      },
+      {
+        "name": "0702b.png",
+        "width": 13,
+        "height": 12,
+        "x": 249,
+        "y": 252,
+        "z": 900
+      },
+      {
+        "name": "0702c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0702d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0702x.png",
+        "width": 11,
+        "height": 14,
+        "x": 236,
+        "y": 252,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0702.png"
+  },
+  {
+    "code": "0703",
+    "images": [
+      {
+        "name": "0703a.png",
+        "width": 24,
+        "height": 11,
+        "x": 238,
+        "y": 241,
+        "z": 1800
+      },
+      {
+        "name": "0703b.png",
+        "width": 13,
+        "height": 12,
+        "x": 249,
+        "y": 252,
+        "z": 900
+      },
+      {
+        "name": "0703c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "0703d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0703x.png",
+        "width": 11,
+        "height": 14,
+        "x": 236,
+        "y": 252,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0703.png"
+  },
+  {
+    "code": "0800",
+    "images": [
+      {
+        "name": "0800b.png",
+        "width": 14,
+        "height": 16,
+        "x": 248,
+        "y": 247,
+        "z": 900
+      },
+      {
+        "name": "0800d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0800x.png",
+        "width": 16,
+        "height": 18,
+        "x": 236,
+        "y": 248,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0800.png"
+  },
+  {
+    "code": "0801",
+    "images": [
+      {
+        "name": "0801b.png",
+        "width": 14,
+        "height": 16,
+        "x": 248,
+        "y": 247,
+        "z": 900
+      },
+      {
+        "name": "0801d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0801x.png",
+        "width": 16,
+        "height": 18,
+        "x": 236,
+        "y": 248,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0801.png"
+  },
+  {
+    "code": "0802",
+    "images": [
+      {
+        "name": "0802b.png",
+        "width": 14,
+        "height": 16,
+        "x": 248,
+        "y": 247,
+        "z": 900
+      },
+      {
+        "name": "0802d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "0802x.png",
+        "width": 16,
+        "height": 18,
+        "x": 236,
+        "y": 248,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/0802.png"
+  },
+  {
+    "code": "1400",
+    "images": [
+      {
+        "name": "1400a.png",
+        "width": 23,
+        "height": 21,
+        "x": 239,
+        "y": 238,
+        "z": 1800
+      },
+      {
+        "name": "1400b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1400c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1400d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1400x.png",
+        "width": 17,
+        "height": 15,
+        "x": 235,
+        "y": 251,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1400.png"
+  },
+  {
+    "code": "1401",
+    "images": [
+      {
+        "name": "1401a.png",
+        "width": 23,
+        "height": 21,
+        "x": 239,
+        "y": 238,
+        "z": 1800
+      },
+      {
+        "name": "1401b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1401c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1401d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1401x.png",
+        "width": 17,
+        "height": 15,
+        "x": 235,
+        "y": 251,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1401.png"
+  },
+  {
+    "code": "1402",
+    "images": [
+      {
+        "name": "1402a.png",
+        "width": 23,
+        "height": 21,
+        "x": 239,
+        "y": 238,
+        "z": 1800
+      },
+      {
+        "name": "1402b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1402c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1402d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1402x.png",
+        "width": 17,
+        "height": 15,
+        "x": 235,
+        "y": 251,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1402.png"
+  },
+  {
+    "code": "1403",
+    "images": [
+      {
+        "name": "1403a.png",
+        "width": 23,
+        "height": 21,
+        "x": 239,
+        "y": 238,
+        "z": 1800
+      },
+      {
+        "name": "1403b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1403c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1403d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1403x.png",
+        "width": 17,
+        "height": 15,
+        "x": 235,
+        "y": 251,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1403.png"
+  },
+  {
+    "code": "1404",
+    "images": [
+      {
+        "name": "1404a.png",
+        "width": 23,
+        "height": 21,
+        "x": 239,
+        "y": 238,
+        "z": 1800
+      },
+      {
+        "name": "1404b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1404c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1404d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1404x.png",
+        "width": 17,
+        "height": 15,
+        "x": 235,
+        "y": 251,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1404.png"
+  },
+  {
+    "code": "1405",
+    "images": [
+      {
+        "name": "1405a.png",
+        "width": 23,
+        "height": 21,
+        "x": 239,
+        "y": 238,
+        "z": 1800
+      },
+      {
+        "name": "1405b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1405c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1405d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1405x.png",
+        "width": 17,
+        "height": 15,
+        "x": 235,
+        "y": 251,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1405.png"
+  },
+  {
+    "code": "1406",
+    "images": [
+      {
+        "name": "1406a.png",
+        "width": 23,
+        "height": 21,
+        "x": 239,
+        "y": 238,
+        "z": 1800
+      },
+      {
+        "name": "1406b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1406c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1406d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1406x.png",
+        "width": 17,
+        "height": 15,
+        "x": 235,
+        "y": 251,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1406.png"
+  },
+  {
+    "code": "1500",
+    "images": [
+      {
+        "name": "1500a.png",
+        "width": 25,
+        "height": 18,
+        "x": 237,
+        "y": 239,
+        "z": 1800
+      },
+      {
+        "name": "1500b.png",
+        "width": 4,
+        "height": 11,
+        "x": 260,
+        "y": 252,
+        "z": 900
+      },
+      {
+        "name": "1500c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1500d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1500x.png",
+        "width": 12,
+        "height": 12,
+        "x": 236,
+        "y": 253,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1500.png"
+  },
+  {
+    "code": "1600",
+    "images": [
+      {
+        "name": "1600a.png",
+        "width": 25,
+        "height": 16,
+        "x": 237,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "1600b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1600c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1600d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1600x.png",
+        "width": 14,
+        "height": 12,
+        "x": 236,
+        "y": 253,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1600.png"
+  },
+  {
+    "code": "1700",
+    "images": [
+      {
+        "name": "1700a.png",
+        "width": 32,
+        "height": 45,
+        "x": 237,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "1700b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1700c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1700d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1700g.png",
+        "width": 8,
+        "height": 8,
+        "x": 251,
+        "y": 242,
+        "z": 1850
+      },
+      {
+        "name": "1700x.png",
+        "width": 12,
+        "height": 9,
+        "x": 240,
+        "y": 257,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1700.png"
+  },
+  {
+    "code": "1701",
+    "images": [
+      {
+        "name": "1701a.png",
+        "width": 32,
+        "height": 45,
+        "x": 237,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "1701b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1701c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1701d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1701g.png",
+        "width": 8,
+        "height": 8,
+        "x": 251,
+        "y": 242,
+        "z": 1850
+      },
+      {
+        "name": "1701x.png",
+        "width": 12,
+        "height": 9,
+        "x": 240,
+        "y": 257,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1701.png"
+  },
+  {
+    "code": "1702",
+    "images": [
+      {
+        "name": "1702a.png",
+        "width": 32,
+        "height": 45,
+        "x": 237,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "1702b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1702c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1702d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1702g.png",
+        "width": 8,
+        "height": 8,
+        "x": 251,
+        "y": 242,
+        "z": 1850
+      },
+      {
+        "name": "1702x.png",
+        "width": 12,
+        "height": 9,
+        "x": 240,
+        "y": 257,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1702.png"
+  },
+  {
+    "code": "1703",
+    "images": [
+      {
+        "name": "1703a.png",
+        "width": 32,
+        "height": 45,
+        "x": 237,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "1703b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1703c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1703d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1703g.png",
+        "width": 8,
+        "height": 8,
+        "x": 251,
+        "y": 242,
+        "z": 1850
+      },
+      {
+        "name": "1703x.png",
+        "width": 12,
+        "height": 9,
+        "x": 240,
+        "y": 257,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1703.png"
+  },
+  {
+    "code": "1704",
+    "images": [
+      {
+        "name": "1704a.png",
+        "width": 32,
+        "height": 45,
+        "x": 237,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "1704b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "1704c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "1704d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "1704g.png",
+        "width": 8,
+        "height": 8,
+        "x": 251,
+        "y": 242,
+        "z": 1850
+      },
+      {
+        "name": "1704x.png",
+        "width": 12,
+        "height": 9,
+        "x": 240,
+        "y": 257,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/1704.png"
+  },
+  {
+    "code": "2000",
+    "images": [
+      {
+        "name": "2000a.png",
+        "width": 32,
+        "height": 25,
+        "x": 232,
+        "y": 236,
+        "z": 1800
+      },
+      {
+        "name": "2000b.png",
+        "width": 5,
+        "height": 11,
+        "x": 260,
+        "y": 255,
+        "z": 900
+      },
+      {
+        "name": "2000c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "2000d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "2000x.png",
+        "width": 15,
+        "height": 12,
+        "x": 234,
+        "y": 254,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/2000.png"
+  },
+  {
+    "code": "2500",
+    "images": [
+      {
+        "name": "2500a.png",
+        "width": 53,
+        "height": 86,
+        "x": 223,
+        "y": 238,
+        "z": 1800
+      },
+      {
+        "name": "2500b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "2500c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "2500d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      }
+    ],
+    "icon": "archer/coat/2500.png"
+  },
+  {
+    "code": "2501",
+    "images": [
+      {
+        "name": "2501a.png",
+        "width": 53,
+        "height": 86,
+        "x": 223,
+        "y": 238,
+        "z": 1800
+      },
+      {
+        "name": "2501b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "2501c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "2501d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      }
+    ],
+    "icon": "archer/coat/2501.png"
+  },
+  {
+    "code": "2600",
+    "images": [
+      {
+        "name": "2600a.png",
+        "width": 25,
+        "height": 21,
+        "x": 237,
+        "y": 240,
+        "z": 1800
+      },
+      {
+        "name": "2600b.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 900
+      },
+      {
+        "name": "2600c.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 2300
+      },
+      {
+        "name": "2600d.png",
+        "width": 1,
+        "height": 1,
+        "x": 500,
+        "y": 0,
+        "z": 500
+      },
+      {
+        "name": "2600x.png",
+        "width": 22,
+        "height": 15,
+        "x": 227,
+        "y": 250,
+        "z": -1
+      }
+    ],
+    "icon": "archer/coat/2600.png"
+  }
+]
